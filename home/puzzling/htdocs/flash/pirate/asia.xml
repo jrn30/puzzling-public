@@ -1,0 +1,79 @@
+<asia>
+	<sea name="Barents Sea">
+		<fact>The sea was named for Willem Barentz (1597), a Dutch navigator. The extent of his explorations and the accuracy of his charts made him one of the most important of all arctic explorers.</fact>
+		<hint>a large sea located on the North of Europe and Asia</hint>
+	</sea>
+	<sea name="Kara Sea">
+		<fact>The name comes from the Russian coast city "Kara". The Kara Sea is only navigable between August and September. The rest of the time it is ice-bound.</fact>
+		<hint>a sea that is covered with ice for most of the year</hint>
+	</sea>
+	<sea name="Laptev Sea">
+		<fact>Formerly called the Nordenskjold Sea, it was renamed in honour of Khariton and Dmitri Laptev (1737), two Russian arctic explorers of the second Bering expedition.</fact>
+		<hint>a very cold sea below the Arctic Ocean</hint>
+	</sea>
+	<sea name="East Siberian Sea">
+		<fact>The East Siberian Sea owes its name to its coast in the Eastern part of Siberia (located in Russia).</fact>
+		<hint>a sea whose coast is located in Siberia</hint>
+	</sea>
+	<sea name="Sea of Okhotsk">
+		<fact>The Sea of Okhotsk has been named after the city of Okhotsk (Siberia, Russia) which is one of its main ports. The sea is ice-bound from November to June and has frequent, heavy fogs.</fact>
+		<hint>a very cold sea located in the Pacific Ocean</hint>
+	</sea>
+	<sea name="Sea of Japan">
+		<fact>Also called the "East Sea", the Sea of Japan has been the subject of a dispute between Japan and Korea for much of the 20th century.</fact>
+		<hint>a sea adjacent to Japan</hint>
+	</sea>
+	<sea name="Yellow Sea">
+		<fact>The Yellow Sea gets its name from the sand particles that colour its water, originating from the yellow river (Huang He).</fact>
+		<hint>a sea from the Pacific Ocean</hint>
+	</sea>
+	<sea name="East China Sea">
+		<fact>The East China Sea is a marginal sea; a sea bordering a continent and separated from an ocean by land features (island, archipelago, or peninsula) or waterways (strait or channel). Here it is separated by an archipelago.</fact>
+		<hint>a marginal sea from the Pacific</hint>
+	</sea>
+	<sea name="Philippine Sea">
+		<fact>The Philippine Sea is so called because the Philippine Islands border its west limits.</fact>
+		<hint>a sea from the Pacific Ocean</hint>
+	</sea>
+	<sea name="South China Sea">
+		<fact>This sea is prone to violent typhoons. A typhoon is a tropical cyclone (created by very fast winds) in the western Pacific Ocean. It is called a hurricane in America and a cyclone in the Indian Ocean.
+</fact>
+		<hint>a sea in the Pacific close to China</hint>
+	</sea>
+	<sea name="Gulf of Thailand">
+		<fact>The Gulf of Thailand is famous for its beautiful beaches and exotic marine life such as the many colourful coral reefs and unusual fish that are found around those coral reefs.</fact>
+		<hint>a semi-enclosed sea between the Indian and Pacific Ocean</hint>
+	</sea>
+	<sea name="Andaman Sea">
+		<fact>The Andaman Sea probably owes its name to the Andaman Islands located between the Andaman Sea and the Bay of Bengal. Marco Polo described those islands as populated by "dog-faced anthropophagi" (cannibals).</fact>
+		<hint>A small sea in the Indian Ocean</hint>
+	</sea>
+	<sea name="Bay of Bengal">
+		<fact>On the northern tip of the "bay" lie the Indian state of West Bengal and the country of Bangladesh, thus the name: "Bay of Bengal".</fact>
+		<hint>a huge bay in the Indian Ocean with a triangular shape</hint>
+	</sea>
+	<sea name="Arabian Sea">
+		<fact>The Arabian Sea is most likely called so because of its location: bordering the Saudi Arabia Peninsula.</fact>
+		<hint>An open sea located in the Indian Ocean</hint>
+	</sea>
+	<sea name="Red Sea">
+		<fact>Not so-named because it is permanently red but possibly because of the seasonal blooms of the red-coloured Cyanobacteria (the oldest known fossils) near the water surface.</fact>
+		<hint>an inland sea that separates Africa from Asia</hint>
+	</sea>
+	<sea name="Mediterranean Sea">
+		<fact>The Mediterranean Sea used to be called "Mediterraneus" from the Latin "medius" and "terra". "Medi" stands for middle and "terraneus" stands for land - "The sea in the middle of lands".</fact>
+		<hint>an inland sea that separates Africa from Europe</hint>
+	</sea>
+	<sea name="Black Sea">
+		<fact>8000 years ago, the Mediterranean Sea flooded the Black Sea in a catastrophic way. Some scientists think that this event may have been the original source for the biblical story of the Deluge (Noah and his ark).</fact>
+		<hint>an inland sea between Europe and Asia</hint>
+	</sea>
+	<sea name="Caspian Sea">
+		<fact>The Caspian Sea is in fact a saltwater lake, the largest one in the world. The sea is important to world energy markets because of its capacity to become a major oil and natural gas exporter over the next decade.</fact>
+		<hint>an inland water mass in between Europe and Asia</hint>
+	</sea>
+	<sea name="Arctic Ocean">
+		<fact>The word "arctic" is derived from the Greek name for the constellation of the Bear, Arctos, and means "near Arctos - in the extreme north".</fact>
+		<hint>the smallest ocean in the world</hint>
+	</sea>
+</asia>

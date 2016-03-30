@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "lesson.dtd">
+<lesson>
+<page graphic="example0">A parachute slows up the speed of a parachutist as he falls. The air resistance of the parachute is called drag and counteracts the downward pull of gravity on the parachutist.</page>
+<page graphic="example1">The faster you go, the bigger the drag on the parachute. At low speeds the drag is small and a parachutist will accelerate downwards.</page>
+<page graphic="example2">As he accelerates, the drag increases, until it equals the pull of gravity. Then he falls at a constant speed, called the terminal velocity.</page>
+<page graphic="example3">The force on the parachute depends on many things, including the area of the parachute and the speed. To halve the terminal velocity, we have to multiply the area by four.</page>
+<page graphic="example4">Parachutes are not just about size. They also need a hole in the top to allow some air to pass through smoothly - otherwise it builds up and makes the parachute rock from side to side.</page>
+<page graphic="example5">In this game, you have to design a parachute that will safely land a man in the target zone.</page>
+<page graphic="example6">If the parachutist hits the ground faster than 6m/s, he will be injured. Be careful! His speed will depend on the wind speed as well as his terminal velocity.</page>
+<page graphic="example7">If the terminal velocity is too slow, the parachutist will be blown away into the trees</page>
+<page graphic="example8">Remember the hole at the top! If the parachute's hole is too small, your parachute will rock from side to side and could hurt your parachutist. If it is too large, then the parachute won't work!</page>
+<page graphic="example9">Use the sliders to control the size of the parachute, before launching your plane. You can have as many goes as you like!</page>
+</lesson>

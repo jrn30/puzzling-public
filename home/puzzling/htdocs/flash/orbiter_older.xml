@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "lesson.dtd">
+<lesson>
+<page graphic="example0">You are the pilot of a spaceship circling a planet. You are given a required period of rotation for your spaceship (this is the target time). You must steer you spaceship into a new orbit which circles the planet once within half a second of this target time.</page>
+<page graphic="example0">You can change your speed and direction using your rocket thrusters. These can be fired in each direction for short periods of time. Be careful, you only have a limited amount of fuel!</page>
+<page graphic="example2">A force is needed to keep the spaceship orbiting a planet instead of flying off into outer space – the centripetal force. This force, F, depends on the radius of the orbit, r,  the mass m, and speed, v, of the spaceship.</page>
+<page graphic="example3">The centripetal force needed to keep the spaceship in orbit is provided by the gravitational force of attraction between the spaceship and the planet. This force depends on the mass of the planet, M, the mass of the spaceship, m,  and the radius of the orbit, r. G is the Gravitational constant.</page>
+<page graphic="example4">When the spaceship is in a circular orbit, the centripetal force is equal to the gravitational attraction and we get the equations on the left. v and r are inversely related, so when the spaceship is in an orbit further away from the planet, it travels slower. But beware! If you decrease the orbiting speed of your spaceship, the gravitational force will be greater than the centripetal force and pull the spaceship towards the earth!</page>
+<page graphic="example5">The period of rotation, T, is related to the speed of the spaceship and the distance it has to travel around the orbit. To increase the period of rotation, the spaceship must be put into an orbit further from the planet.</page>
+<page>You do not need to use a lot of power to achieve your target time. You just need to move your ship into a new orbit closer to or further away from the planet. This is how real satellites and orbiting spaceships work.</page>
+<page graphic="example7">Be careful though! If you go too close to the planet, you will hit the surface and crash!</page>
+<page graphic="example8">Click 'Start' to launch your spaceship, which starts in a circular orbit. Use the keyboard keys or click on the buttons to fire a thruster. If your spaceship goes off course, you can start again.</page>
+<page>To succeed, you must orbit the planet three times within half a second of the target time. Good luck!</page>
+</lesson>

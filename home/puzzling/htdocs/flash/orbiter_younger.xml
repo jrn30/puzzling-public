@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "lesson.dtd">
+<lesson>
+<page graphic="example0">You are the pilot of a spaceship travelling in orbit around a planet. You are given a target time - this is the time taken for the spaceship to go round the planet once. You must steer your spaceship into a new orbit which circles the planet once in this target time.</page>
+<page graphic="example0">You can change your speed and direction using your rocket thrusters. These can be fired in each direction for short periods of time. Be careful, you only have a limited amount of fuel!</page>
+<page graphic="example2">A force is needed to keep the spaceship orbiting a planet instead of flying off into outer space.</page>
+<page graphic="example3">The force which keeps the spaceship in orbit is the pull of gravity from the planet.</page>
+<page graphic="example4">The closer to the planet the spaceship gets, the faster it must go to stop gravity pulling it into the ground.</page>
+<page graphic="example5">So to decrease the target time, the spaceship must be moved closer to the planet.</page>
+<page>You do not need to use a lot of power. You just need to steer your ship into a new orbit closer to or further away from the planet. This is how real satellites and orbiting spaceships work.</page>
+<page graphic="example7">Be careful though! If you go too close to the planet, you will hit the surface and crash!</page>
+<page graphic="example8">Click 'Start' to launch your spaceship, which starts in a circular orbit. Use the keyboard keys or click on the buttons to fire a thruster. If your spaceship goes off course, you can start again.</page>
+<page>To succeed, you must orbit the planet three times within half a second of the target time. Good luck!</page>
+</lesson>

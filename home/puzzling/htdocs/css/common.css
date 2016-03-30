@@ -1,0 +1,100 @@
+img {
+	border: 0px;
+}
+
+img.gameicon {
+	height: 40px;
+	width: 40px;
+}
+
+div#topimages {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+div#menubar, div#submenubar {
+	border: 0px;
+	margin: 0px;
+	float: left;
+	clear: both;
+	height: auto;
+	width: 100%;
+}
+
+div#menubar ul, div#submenubar ul {
+   display: inline;
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+
+div#menubar li, div#submenubar li {
+   float: left;
+   margin: 0;
+   white-space: nowrap;
+}
+
+div#content {
+	clear: both;
+}
+
+div#bottomimages {
+	height: auto;
+	float: left;
+	text-align: right;
+}
+
+div#copyright, div#changestyle {
+	float: left;
+	height: 15px;
+	width: auto;
+	padding: 6px 6px 6px 6px;
+	font-size: 0.75em;
+}
+
+div#linklogos {
+	float: right;
+	width: auto;
+  padding: 4px 6px 0px 0px;
+}
+
+img.linklogo {
+	margin-right: 5px;
+}
+
+img#personphoto {
+	float: right;
+}
+/*
+div#content ul {
+  line-height: 130%;
+}*/
+
+div#content li {
+	padding-top: 2px;
+}
+
+ul.pdf {
+	list-style: url(../images/layout/pdf-icon.gif) disc;
+}
+
+
+ul.pdf li {
+	padding-left: 5px;
+}
+
+div#intrologos {
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+div.gamedesc {
+	text-align: center;
+	width: 400px;
+	padding: 0.5em;
+	margin-right: auto;
+	margin-left: auto;
+}

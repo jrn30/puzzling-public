@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<paris name="Paris">
+	<easy>
+		<question quest="Quelle rivière traverse Paris?">
+			<goodanswer>La Seine</goodanswer>
+			<wronganswer1>La Tamise</wronganswer1>
+			<wronganswer2>Le Rhin</wronganswer2>
+		</question>
+		<question quest="L'Ile de la Cité était facile à défendre car elle était située...">
+			<goodanswer>...sur une île</goodanswer>
+			<wronganswer>...sur une montagne</wronganswer>
+			<wronganswer>...dans une grotte</wronganswer>
+		</question>
+		<question quest="De quand datent les plus anciennes traces de présence humaine à Paris?">
+			<goodanswer> De 5000 avant J.C</goodanswer>
+			<wronganswer1>De 5000 après J.C</wronganswer1>
+			<wronganswer2>De 1000 avant J.C</wronganswer2>
+		</question>
+	</easy>
+	<medium>
+		<question quest="Qui étaient les premiers Parisiens?">
+			<goodanswer>La tribu gauloise des Parisii</goodanswer>
+			<wronganswer>Les Romains</wronganswer>
+			<wronganswer>Les Celtes</wronganswer>
+		</question>
+		<question quest="En quelle année César a-t-il envahi la Gaule?">
+			<goodanswer>en 52 av.J.-C.</goodanswer>
+			<wronganswer>en 250 av.J.-C.</wronganswer>
+			<wronganswer>en 5000 av.J.-C.</wronganswer>
+		</question>
+		<question quest="Que signifie 'Lutèce' en gaulois?">
+			<goodanswer>"La ville des loups"</goodanswer>
+			<wronganswer>"La ville des aigles"</wronganswer>
+			<wronganswer>"La ville des corbeaux"</wronganswer>
+		</question>
+	</medium>
+	<hard>
+		<question quest="Quand Lutèce fut-elle construite?">
+			<goodanswer>en 250 av. J.-C.</goodanswer>
+			<wronganswer>en 5000 av. J.-C.</wronganswer>
+			<wronganswer>en 52 av. J.-C.</wronganswer>
+		</question>
+		<question quest="Sous quel musée parisien a-t-on trouvé des sites préhistoriques?">
+			<goodanswer>Sous le Musée du Louvre</goodanswer>
+			<wronganswer1>Sous le Musée de la Marine</wronganswer1>
+			<wronganswer2>Sous le British Museum</wronganswer2>
+		</question>
+		<question quest="Pourquoi Lutèce était-elle un emplacement commercial stratégique?">
+			<goodanswer>Pour son pont sur la Seine</goodanswer>
+			<wronganswer>Pour son tunnel sous la Seine</wronganswer>
+			<wronganswer>Pour son marché</wronganswer>
+		</question>
+	</hard>
+</paris>

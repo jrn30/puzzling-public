@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "lesson.dtd">
+<lesson>
+<page graphic="example0">Plants evolve to suit their surroundings and to compensate for any hazards around</page>
+<page graphic="example1">They can develop passive defensive mechanisms, like spreading by their roots, or active defensive mechanisms like thorns</page>
+<page graphic="example1">In this game you are warned of an approaching hazard to which you must adapt your plant</page>
+<page graphic="example2">If you choose an effective defence then the plant will not be harmed</page>
+<page graphic="example3">However if you do not choose well a part of the plant will be destroyed</page>
+<page graphic="example3">When all the plant is destroyed it is Game Over</page>
+<page graphic="example3">Choose from the list of defences on the right - there are a lot, so scroll down and take a look</page>
+<page graphic="example4">You may need a few goes to get used to all the defences you can use</page>
+<page graphic="example5">See how large a score you can get before you get Game Over!</page>
+</lesson>

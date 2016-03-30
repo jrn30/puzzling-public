@@ -1,0 +1,34 @@
+<africa>
+	<sea name="Red Sea">
+		<fact>Not so-named because it is permanently red but possibly because of the seasonal blooms of the red-coloured Cyanobacteria (the oldest known fossils) near the water surface.</fact>
+		<hint>an inland sea that separates Africa from Asia</hint>
+	</sea>
+	<sea name="Arabian Sea">
+		<fact>The Arabian Sea is most likely called so because of its location: it borders the Saudi Arabia Peninsula.</fact>
+		<hint>an open sea located between Africa and Asia</hint>
+	</sea>
+	<sea name="Mediterranean Sea">
+		<fact>The Mediterranean Sea used to be called "Mediterraneus" from the Latin "medius" and "terra". "Medi" stands for middle and "terraneus" stands for land - "The sea in the middle of lands".</fact>
+		<hint>an inland sea on the North of Africa</hint>
+	</sea>
+	<sea name="Gulf of Guinea">
+		<fact>The Gulf of Guinea borders "Equatorial Guinea"; and is the most likely deciding factor for the Spanish when needing to find a name for the gulf.</fact>
+		<hint>a small sea going inland the West African coast</hint>
+	</sea>
+	<sea name="Gulf of Aden">
+		<fact>The Gulf of Aden is characterised by a prevailing high energy climate. It is famous for its rich supply of fish, turtles, and lobsters; and the occurrence of previously unknown coral reefs and mangrove strands.</fact>
+		<hint>a gulf that belongs to the Arabian Sea</hint>
+	</sea>
+	<sea name="Mozambique Channel">
+		<fact>The Mozambique Channel is the most shark-infested channel in the world. However, not all the sharks are aggressive and many diving sites with keen divers can be found here.</fact>
+		<hint>a channel between Mozambique and Madagascar</hint>
+	</sea>
+	<sea name="Atlantic Ocean">
+		<fact>The name comes from the Greek "Atlantikos Pelagos" from the Isle of Atlantes (the submerged continent). Atlantis was a source of inspiration for Greek poets.</fact>
+		<hint>the second biggest ocean in the world</hint>
+	</sea>
+	<sea name="Indian Ocean">
+		<fact>The Indian Ocean owes its name to its geographical position around the Indian Peninsula.</fact>
+		<hint>the third biggest ocean in the world</hint>
+	</sea>
+</africa>

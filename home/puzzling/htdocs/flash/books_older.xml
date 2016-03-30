@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "lesson.dtd">
+<lesson>
+<page graphic="example0">In this game you have to balance a pile of books on the desk so that the top book is over the red target line.</page>
+<page graphic="example1">Slide the books across with the mouse, then click 'Check Balance' to see if the pile is still balanced.</page>
+<page graphic="example2">The top book will fall off, if its centre of mass is not  supported by the book below. The combined centre of mass of the top two books must be supported by the third book down,and so on.</page>
+<page graphic="example3" frame="1">The game will show you the centre of mass of the pile at each book, if you click on the box in the corner. Here the red line shows the centre of mass of the red book.</page>
+<page graphic="example3" frame="5">The purple line shows the combined centre of mass of the purple book and the red book. The position of this changes as you move the red book.</page>
+<page graphic="example5">There are four levels, each with more books and a harder target than the previous one. Try the game both with and without displaying the centres of mass.
+
+Click 'Start Game' to start.</page>
+</lesson>

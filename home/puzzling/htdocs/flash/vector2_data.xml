@@ -1,0 +1,100 @@
+<?xml version = "1.0" ?>
+<!DOCTYPE vectordata SYSTEM "vectordata.dtd">
+<vectordata>
+
+<!-- One Vector -->
+<motion>
+<pos t="0" x="40" y="40" />
+<pos t="40" x="40" y="40" />
+</motion>
+
+<!-- Two Vectors -->
+<motion>
+<pos t="0" x="50" y="-50" />
+<pos t="20" x="50" y="-50" />
+<pos t="25" x="-60" y="0" />
+<pos t="40" x="-60" y="0" />
+</motion>
+
+<!-- Two Vectors -->
+<motion>
+<pos t="0" x="-30" y="50" />
+<pos t="20" x="-30" y="50" />
+<pos t="25" x="20" y="-10" />
+<pos t="40" x="20" y="-10" />
+</motion>
+
+<!-- Stop then Restart -->
+<motion>
+<pos t="0" x="-60" y="-20" />
+<pos t="20" x="0" y="0" />
+<pos t="40" x="-60" y="-20" />
+</motion>
+
+<!-- Return to where it was -->
+<motion>
+<pos t="0" x="-20" y="0" />
+<pos t="40" x="-20" y="0" />
+<pos t="42" x="80" y="0" />
+<pos t="51" x="80" y="0" />
+</motion>
+
+<!-- Three vectors -->
+<motion>
+<pos t="0" x="-60" y="-20" />
+<pos t="20" x="-60" y="-20" />
+<pos t="25" x="0" y="-40" />
+<pos t="45" x="0" y="-40" />
+<pos t="48" x="80" y="40" />
+<pos t="60" x="80" y="40" />
+</motion>
+
+<!-- Three vectors -->
+<motion>
+<pos t="0" x="-60" y="80" />
+<pos t="20" x="-60" y="80" />
+<pos t="25" x="20" y="-40" />
+<pos t="45" x="20" y="-40" />
+<pos t="50" x="-10" y="-20" />
+<pos t="60" x="-10" y="-20" />
+</motion>
+
+<!-- Two Vectors and a stop in between -->
+<motion>
+<pos t="0" x="0" y="60" />
+<pos t="20" x="0" y="60" />
+<pos t="25" x="0" y="0" />
+<pos t="45" x="0" y="0" />
+<pos t="50" x="40" y="-20" />
+<pos t="60" x="40" y="-20" />
+</motion>
+
+<!-- Four Vectors -->
+<motion>
+<pos t="0" x="-20" y="50" />
+<pos t="15" x="-20" y="50" />
+<pos t="20" x="30" y="0" />
+<pos t="35" x="30" y="0" />
+<pos t="40" x="-40" y="40" />
+<pos t="55" x="-40" y="40" />
+<pos t="60" x="80" y="-50" />
+<pos t="75" x="80" y="-50" />
+</motion>
+
+<!-- Go Round A Circle -->
+<motion>
+<pos t="0" x="50" y="0" />
+<pos t="10" x="50" y="0" />
+<pos t="15" x="0" y="50" />
+<pos t="25" x="0" y="50" />
+<pos t="30" x="-50" y="0" />
+<pos t="40" x="-50" y="0" />
+<pos t="45" x="0" y="-50" />
+<pos t="55" x="0" y="-50" />
+<pos t="60" x="50" y="0" />
+</motion>
+
+</vectordata>
+
+
+

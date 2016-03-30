@@ -1,0 +1,117 @@
+body,p,td,li,h1,h2,h3,input,textarea,select,a  {
+	font-family: Verdana, sans-serif;
+}
+
+body,p,td,li,h1,h2,h3 {
+	  color: #FFFFFF;
+}
+
+body {
+	background: #663399;
+	margin: 0;
+}
+
+a, a:visited {
+	text-decoration: none;
+	color: #CCCCFF;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1 { font-size: 150%; }
+h2 { font-size: 120%; }
+h3 { font-size: 110%; }
+
+h1,h2,h3 {
+	font-weight: normal;
+}
+
+div#topimages {
+	height: 82px;
+}
+
+div#submenubar, div#menubar {
+  font-size: 80%;
+}
+
+div#menubar {
+  margin-top: 0px;
+  background-color: #333366;
+  color: #FFFFFF;
+}
+
+div#submenubar {
+  background-color: #9999CC;
+  color: #00008B;
+}
+
+div#menubar li, div#submenubar li {
+   padding: 0em 1em;
+}
+div#submenubar li {
+   font-weight: bold;
+}
+
+div#menubar a {
+  color: #FF0000;
+  font-weight: normal;
+}
+
+div#submenubar a, div#copyright a, div#changestyle a {
+  color: #FFFFFF;
+  font-weight: normal;
+}
+
+
+div#content {
+  padding: 0.2em 0.5em 0.5em 0.5em;
+}
+
+div#science, div#arts {
+  padding: 12px 150px 0px 131px;
+  text-align: center;
+}
+
+div#random {
+	margin-top: -35px;
+	margin-left: 130px;
+	padding-top: 12px;
+	text-align: center;
+	width: 210px;
+	height: 78px;
+	background: url(../images/design2/randomizer_background.gif) no-repeat 0px 0px;
+}
+
+div#science {
+    margin-top: 8px;
+	width: 210px;
+	height: 250px;
+	background: url(../images/design2/science_background.gif) no-repeat;
+}
+
+div#arts {
+	width: 210px;
+	height: 240px;
+	background: url(../images/design2/arts_background.gif) no-repeat;
+}
+
+div#bottomimages {
+	width: 100%;
+	background-color: #9999CC;
+}
+
+img.gameicon {
+  border: 1px #663399 solid;
+  margin: 0px 0px 4px -1px;
+}
+
+img.intrologo {
+	border: 1px #663399 solid;
+	margin: 2px;
+}
+
+div.gamedesc {
+	font-size: 120%;
+}

@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<trial>
+	<case1>
+		<accuser1>
+			<accusation acc="The accused did confess that the black man did persuade her to pinch my sister in the knees, arms and shoulders, intimating with her fingers how she did it.">
+				<result>Guilty</result>
+				<explanation>A testimony from a servant of God stating the accused confessed to being in the Devil’s service would have made the verdict easy!</explanation>
+			</accusation>
+			<accusation acc="The accused confessed that she had no wax nor clay whereby she had pricked and tormented my sister, only a piece of leather which she had pricked nine times causing my sister’s knee to have nine pricks as though nine thorn had been pushed into it.">
+				<result>Guilty</result>
+				<explanation>A testimony from a servant of God stating the accused confessed to using witches’ tools to torment another would not have been questioned.</explanation>
+			</accusation>
+			<accusation acc="Upon searching the accused’s body, I did find a small, red swelling a little below her right collarbone, which could be none other than the Devil’s mark.">
+				<result>Guilty</result>
+				<explanation>An accusation like this would probably have instigated an immediate (public) inspection of this mark, and more often than not, one would have been found; and if it were not in the same place or looked different, that would have been even more reason to believe it was the Devil’s mark – being able to move and change shape!</explanation>
+			</accusation>
+			<accusation acc="I took it upon myself to test the accused with the Lord’s Payer and found she was unable to repeat it correctly and, having not been able to the accused confessed to me that she did indeed converse with the devil.">
+				<result>Guilty</result>
+				<explanation>Not being able to say the Lord’s Prayer without faltering was seen as proof of God having been renounced and the Devil not allowing the accused to say the prayer. Personal or social circumstances at that immediate time would not have been taken into consideration. The fact that this was a Priest’s statement would also have been enough to condemn.</explanation>
+			</accusation>
+		</accuser1>
+		<accuser2>
+			<accusation acc="The accused did cause pins from my pincushion to fly into my mouth every night this week last.">
+				<result>Nonsense</result>
+				<explanation>As unbelievable as it may seem, this accusation formed the basis of a famous witch trial. It is quite likely that the accuser believed this did actually happen by the time it was her turn to give a statement. Very often, however, accusations were made from a desire to ‘get back at someone’. The general rule of thumb with these sorts of accusations, it seems, was if there were more than two witnesses who could swear to these incidents, and they happened more than twice, the accusations would then have been taken more seriously. </explanation>
+			</accusation>
+			<accusation acc="Another time I did vomit from my throat a great quantity of feathers, cotton, yarn, and two large waistcoat buttons, at least as much as would fill my hands.">
+				<result>Nonsense</result>
+				<explanation>These items were actually produced at one of the more famous witch trials. It is quite likely that the accuser believed this did actually happen by the time it was her turn to give a statement. Very often, however, accusations were made from a desire to ‘get back at someone’. The general rule of thumb with these sorts of accusations, it seems, was if there were more than two witnesses who could swear to these incidents, and they happened more than twice, the accusations would then have been taken more seriously. </explanation>
+			</accusation>
+			<accusation acc="I am tormented exceedingly by cats, and all the cats have the face and voice of the accused.">
+				<result>Nonsense</result>
+				<explanation>This is more likely to have been a statement made by someone not particularly fond of cats and bearing a grudge against the accused.</explanation>
+			</accusation>
+			<accusation acc="I recall being taken ill at the end of August last while my husband was away at sea. The doctor examined me and diagnosed witchcraft. The accused then called to visit, and I did accuse her of being my tormentor, and attempted to fly in her face but collapsed unable to see or hear. I was trying to scratch the accused above the heart but being blinded I was unable to see where her heart would be and was caused to be thrown back by some startling force that I could not see. She then changed into a cat and vanished.">
+				<result>Nonsense</result>
+				<explanation>This is more likely to have been a statement made by someone bearing a grudge against someone. And of course, the doctor, rather than admit lack of knowledge, would have immediately identified witchcraft as the cause.</explanation>
+			</accusation>
+		</accuser2>
+		<accuser3>
+			<accusation acc="The accused – whom I very well know – came to me in the shape of my beloved wife, dead since this year past, and did most grievously torment me by choking and almost pressing me to death.">
+				<result>Guilty</result>
+				<explanation>Shape shifting and harming of another by sorcery were considered the core of witchcraft; shape shifting required the maximum level of sorcery to enable the person to shape shift and therefore, that person must be a very skilled witch. This then meant torment and harm could be done in the form or appearance of another. However, a counter statement from the accused along the lines of "God knows it was the Devil, not me", and a petition (from upstanding, possibly wealthy citizens of society) supporting this, could buy the accused freedom….until the next time.</explanation>
+			</accusation>
+			<accusation acc="I believe in my heart that the accused is a witch and that she has often afflicted me by acts of witchcraft.">
+				<result>Swimming</result>
+				<explanation>No real evidence has been offered in support of this statement, but it would have been irresponsible of the Judge if he had not taken it seriously and allowed a witch to go free!</explanation>
+			</accusation>
+			<accusation acc="I heard the accused threaten our neighbour saying he were high now but he should have a downfall soon; and she used other threatening words. And sure enough, our neighbour lost his sheep by some unnatural element.">
+				<result>Guilty</result>
+				<explanation>Threats witnessed by another, followed by an inexplicable incident with a negative impact on the unfortunate receiver, i.e., loss of livelihood, were often enough to condemn a person.</explanation>
+			</accusation>
+			<accusation acc="Two or three years before our father died we often heard him complaining of the accused’s hurting of him and he often said that she was a witch and so he continued complaining of the accused, saying he should never be well so long as she lived and so he complained of the accused until the day he died; and we do believe she caused him to die.">
+				<result>Nonsense</result>
+				<explanation>The statement offers no real evidence of malefice, more a disgruntled father and son who have a reason for bearing a grudge and/or wanting a person ‘out of the way’.</explanation>
+			</accusation>
+		</accuser3>
+		<accuser4>
+			<accusation acc="My mother told me that witches hauled her on her belly through the yard like a snake and hauled her over the stone wall but then, she told me different and said that she came over the stone wall herself.">
+				<result>Guilty</result>
+				<explanation>At the height of the witch trials, when a daughter gave evidence against her mother it generally meant one thing – the accused was pretty much convicted! Never mind how that evidence was got, nor how the questions were asked, the result would have been the same…</explanation>
+			</accusation>
+			<accusation acc="My mother sometimes sucks, pricks and pinches me, and hauls me about under the table at strange hours. ">
+				<result>Guilty</result>
+				<explanation>At the height of the witch trials, when a daughter gave evidence against her mother it generally meant one thing – the accused was pretty much convicted! Never mind how that evidence was got, nor how the questions were asked, the result would have been the same…</explanation>
+			</accusation>
+			<accusation acc="My mother has been very often abroad in the night and sometimes, on her return she tells me about those she has afflicted.">
+				<result>Guilty</result>
+				<explanation>At the height of the witch trials, when a daughter gave evidence against her mother it generally meant one thing – the accused was pretty much convicted! Never mind how that evidence was got, nor how the questions were asked, the result would have been the same…</explanation>
+			</accusation>
+			<accusation acc="I did go riding with my mother once when she rode upon a stick to the next town. When I asked how we could ride a stick, she said the Devil carried the stick.">
+				<result>Guilty</result>
+				<explanation>At the height of the witch trials, when a daughter gave evidence against her mother it generally meant one thing – the accused was pretty much convicted! Never mind how that evidence was got, nor how the questions were asked, the result would have been the same…</explanation>
+			</accusation>
+		</accuser4>
+		<accuser5>
+			<accusation acc="I asked the accused to repeat the Lord’s prayer. She could not complete it without stumbling over “And forgive us our trespasses, as we forgive them that trespass against us”. And, therefore, she must be a witch.">
+				<result>Guilty</result>
+				<explanation>Most likely, the accused would have been made to repeat the prayer there and then. If she stumbled – sleep deprivation, lack of food, heavy chains, instruments of torture aside – this would have been living proof of having renounced God; if she didn’t stumble, then the Devil has obviously come to her aid.</explanation>
+			</accusation>
+			<accusation acc="I kindly made a little experiment for my own satisfaction, and by repeatedly burying a pin to the head in the accused's arm, proved conclusively that she bore pain without flinching, that she shed no blood when wounded.">
+				<result>Guilty</result>
+				<explanation>This experiment would probably have been repeated then and there; and an old scar or calloused bit of skin would be chosen for pricking as these do not tend to bleed, and, therefore, this statement would be proven publicly.</explanation>
+			</accusation>
+			<accusation acc="My father did declare on his deathbed that the accused had bewitched him unto death.">
+				<result>Nonsense</result>
+				<explanation>As there seems to be little real evidence given to support unnatural death, it is more likely the father and son did not get-on with the accused.</explanation>
+			</accusation>
+			<accusation acc="The accused did tell me that the Devil had given her great power and as much time as she needed, to carry out his work for him.">
+				<result>3 days in the stocks</result>
+				<explanation>It is unlikely that, knowing the penalty for cavorting with the Devil, one would openly admit to it, let alone boast about it, other than to wind the listener up! However, behaviour such as this would not have been tolerated in a community that took the Devil and witchcraft so seriously. Socially unacceptable behaviour had its own penalty!</explanation>
+			</accusation>
+		</accuser5>
+	</case1>
+	<case2>
+		<accuser1>
+			<accusation acc="The accused did twist my sister’s tongue and tear her throat by reason of her crooked fingers.">
+				<result>Guilty</result>
+				<explanation>A Priest’s allegation would have been rarely contested and being witness to an act of witchcraft added weight to the condemnation.</explanation>
+			</accusation>
+			<accusation acc="The accused used her magical powers against me and mine. My servant fell mysteriously ill and was persistently pestered by cats, one of which had the face of the accused, and which presented my sister with a knife, urging that she should kill herself with it.">
+				<result>Guilty</result>
+				<explanation>A Priest’s allegation would be rarely contested and being witness to sorcery added weight to the condemnation. This statement refers to cats with faces and the ability to influence: inferring a familiar – a Devil’s serf, a true sign of witchcraft.</explanation>
+			</accusation>
+			<accusation acc="The accused did cause my sister to have fits when even three strong men were scarce able to hold her down.">
+				<result>Guilty</result>
+				<explanation>A Priest’s allegation would be rarely contested and being a witness to an act of witchcraft added weight to the condemnation. Three others witnesses would also be able to testify to the same, securing the noose around the neck.</explanation>
+			</accusation>
+			<accusation acc="The accused did choke my sister by forcing my sister’s tongue to be thrust into her windpipe in such a manner that she was like to choke, and the root seemed pulled up into her mouth.">
+				<result>Guilty</result>
+				<explanation>A Priest’s allegation would be rarely contested and being a witness to an act of witchcraft added weight to the condemnation. This would be a true example of causing harm to another by sorcery.</explanation>
+			</accusation>
+		</accuser1>
+		<accuser2>
+			<accusation acc="The accused did cause me to have a most violent fit, and tormented me with such pain that I thought a knife was run through my thigh.">
+				<result>Guilty</result>
+				<explanation>Evidence of causing torment and pain through sorcery.</explanation>
+			</accusation>
+			<accusation acc="The accused did tell me when the Priest was going to pray with and for me, that I should be little the better for his prayers, for they (the witches) would hinder me from hearing them, which they accordingly did.">
+				<result>Guilty</result>
+				<explanation>This allegation infers the Devil had foreknowledge of the prayer session and would, with the help of his witches, prevent good happening and cause harm instead. The three elements, the Devil, witches and harm through witchcraft would have been very condemning, especially if the Priest testified to the same.</explanation>
+			</accusation>
+			<accusation acc="The accused has caused something strange in my stomach, which I would be glad to get rid of.">
+				<result>Nonsense</result>
+				<explanation>There is no evidence of unnatural elements being used to cause the strangeness.</explanation>
+			</accusation>
+			<accusation acc="The accused told me that I should have no power to give evidence against them in court. I was accordingly that day, before the trial, struck dumb, and so continued until today, but had no violent fit.">
+				<result>Guilty</result>
+				<explanation>A threat of bodily harm followed by reality would have been proof of sorcery, and at the height of the witch trials, enough to convict.</explanation>
+			</accusation>
+		</accuser2>
+		<accuser3>
+			<accusation acc="The accused did cause my daughter terrible pain by placing a magic band with seven double knots on various parts of her body.">
+				<result>Guilty</result>
+				<explanation>Use of witchcraft to harm and torment another carried a heavy sentence.</explanation>
+			</accusation>
+			<accusation acc="The accused did torment my neighbour with the warning that 'If the plague of God was on her (the accused), the plague of God be on them all together; the Devil be with them if he was among them. If God had taken her health from her, God give her health: if the Devil had taken it from her, the Devil give it her'. And then added: 'O misbelieving ones, eating and drinking damnation to themselves, crucifying Christ afresh, and taking all out of the hands of the Devil!'">
+				<result>3 days in the stocks</result>
+				<explanation>As there was no evidence of bodily harm, and the warning did not actually contain any personal threats to harm, it would have been the accused’s behaviour that attracted attention and the punishment because that kind of behaviour would not have been acceptable to other members of society. </explanation>
+			</accusation>
+			<accusation acc="The accused did try to persuade my wife to attend a witches’ dance, saying her familiar would escort her there.">
+				<result>Strappado</result>
+				<explanation>No supporting evidence of, or witnesses to, this occurrence, but as there was mention of a familiar – the Devil’s serf – further investigations would have determined whether the accused was a witch or not.</explanation>
+			</accusation>
+			<accusation acc="I know the accused as being a common enchanter and charmer as well of men as of beasts and other things, and exercising devilish and wicked arts, charms and enchantments, not having God before her eyes but seduced by a diabolical instigation, for devilishly and wickedly charming and enchanting she did bewitch one cow belonging to me, at the same, by reason of which charm and enchantment the aforesaid cow died.">
+				<result>Guilty</result>
+				<explanation>Causing harm to, or the loss of, another’s stock through witchcraft, especially if the stock was another’s livelihood and hard times had fallen, would have been considered equal to causing harm or death by witchcraft to a human.</explanation>
+			</accusation>
+		</accuser3>
+		<accuser4>
+			<accusation acc="As soon as the accused came into the room; my sister did fall into such a violent fit of pain that three men were scarce able to hold her, and cried out, 'For Christ's sake, take the Devil out of the room.' And being asked, pointed to the accused, for she was the woman that did torment her.">
+				<result>Guilty</result>
+				<explanation>The fact that there were more than two witnesses to the torment of a ‘victim’ would have strengthened the accusation as these witnesses would more than likely make identical statements and three people could not be wrong!</explanation>
+			</accusation>
+			<accusation acc="The accused did cause great pain and torment to my sister by way of witches’ charms and implements such as an incle (a piece of tape or broad string) with seven double knots and one single one: this all who were in the room can swear to this.">
+				<result>Guilty</result>
+				<explanation>Accusations of tangible ‘witches’ tools’ were taken very seriously as this they would have been considered proof of witchcraft and the intent to harm or kill another through its use.</explanation>
+			</accusation>
+			<accusation acc="The accused did bewitch me by making me lame in my feet so that my feet were, and now remain, curved and I can scarcely use them, to my great hurt.">
+				<result>Nonsense</result>
+				<explanation>It is likely the child was born lame and the family not wanting to explain, admit to, or be accused of, sinful thoughts or activities, thereby bringing the wrath of God upon their heads, would have tried diverting attention elsewhere.</explanation>
+			</accusation>
+			<accusation acc="The accused told my mother that she did cause the death of her sister-in-law, and that she was the cause of the bewitching out of one of the eyes of the wife of the village mariner.">
+				<result>Nonsense</result>
+				<explanation>This would probably have been a statement made under pressure from a mother with a grudge against the accused.</explanation>
+			</accusation>
+		</accuser4>
+		<accuser5>
+			<accusation acc="The accused persists in tormenting my mother by bewitching her so that she should not have power to go over the threshold of her chamber door; several times we attempted to lead my mother out of the door, and she was as often thrown into fits as we brought her to the said threshold.">
+				<result>Strappado</result>
+				<explanation>Further investigation required.</explanation>
+			</accusation>
+			<accusation acc="The accused has cursed our threshold with so strong a smell of brimstone that we were scarce able to bear it; the stench spreads through the whole house, and afflicts all who come to the house to the degree that they feel sick in their stomachs, and are much disordered.">
+				<result>Swimming</result>
+				<explanation>Further investigation required.</explanation>
+			</accusation>
+			<accusation acc="The accused and her familiar, in the shape of very large sheep, did afflict and torment my wife’s body; I did clearly see the accused standing by the bed in her own human and bodily shape, clothed in a green waistcoat and in the same habit she daily wears, and beside her a silhouette in the shape of a monstrous-looking sheep; and calling on the Lord to be present with me, the accused changed into a cat and did vanish and disappear with her familiar.">
+				<result>Guilty</result>
+				<explanation>A familiar, shape shifting and the ability to appear and disappear were considered sorcery at the highest level. A witness testifying they saw this with their own eyes would be enough to condemn, especially if the witness was wealthy and of high standing in the community.</explanation>
+			</accusation>
+			<accusation acc="During one of my wife’s violent seizures, the accused was found standing with a white pot in her hands, as though she had been going to the common bake house. Whilst taking her Sunday meal to be cooked in the communal oven, (a custom which survived into this century in parts of Europe), the accused dropped some of the food from her pot outside the house.">
+				<result>5 days in the stocks</result>
+				<explanation>Standing on another’s doorstep and dropping food on it while they’re having a seizure would not have been considered good manners! The accusation would probably have arisen from resentment against the accused. However, the accused should be punished for such unbecoming behaviour.</explanation>
+			</accusation>
+		</accuser5>
+	</case2>
+	<case3>
+		<accuser1>
+			<accusation acc="I overheard the child deny God, Mary and all the saints and angels.">
+				<result>5 days in the stocks</result>
+				<explanation>This sounds more like a rebellious child rather than an admission of witchcraft and would probably have been seen as unconventional behaviour – straying from society’s customs and practices – and therefore, would have been given light and very public punishment.</explanation>
+			</accusation>
+			<accusation acc="I believe the child has spoken of acts with the Devil of a sexual nature.">
+				<result>Ducking</result>
+				<explanation>This is a Priest’s statement, which would have been taken seriously. However, no conclusive evidence is offered and just to really make sure, one way or the other a witch’s test would probably have been requested.</explanation>
+			</accusation>
+			<accusation acc="The child has not been at church for at least two Sundays past.">
+				<result>3 days in the stocks</result>
+				<explanation>There may have been good reason for this but just in case there was not, a light, public punishment would probably have been enough to remind him and his family that he must not forgo God.</explanation>
+			</accusation>
+			<accusation acc="The child has a strange mark on his right thigh.">
+				<result>Guilty</result>
+				<explanation>Any strange mark on the body was considered unquestionable proof of contact with the Devil; only the Devil could put such a mark on the body. (Remember, medical science was not what it is now!)</explanation>
+			</accusation>
+		</accuser1>
+		<accuser2>
+			<accusation acc="I saw with my own eyes the child flying to a witches dance just four nights last.">
+				<result>Swimming</result>
+				<explanation>This accusation is enough to instigate further investigation.</explanation>
+			</accusation>
+			<accusation acc="His mother did boast to me that the child could ride a stick.">
+				<result>Ducking</result>
+				<explanation>More proof required.</explanation>
+			</accusation>
+			<accusation acc="When I confronted his mother about him, a frog suddenly hopped out of my mouth.">
+				<result>Nonsense</result>
+				<explanation>Even at the height of witch persecution, this statement would have required even the most ardent believer in witchcraft to suspend reality.</explanation>
+			</accusation>
+			<accusation acc="He did threaten to harm my daughter if she did not go riding with him.">
+				<result>1 day in the stocks</result>
+				<explanation>A threat with no obvious subsequent harm is unpleasant in words only; and ‘go riding’ has probably been given a sinister inference by the witness rather than being supported by any real evidence. Therefore the child’s behaviour would probably have been considered unsocial and lightly but publicly punished.</explanation>
+			</accusation>
+		</accuser2>
+		<accuser3>
+			<accusation acc="On oath, I swear I did see the child renounce God in words written with his own blood.">
+				<result>Guilty</result>
+				<explanation>Oaths were taken very seriously (probably the equivalent of today’s promise in court to tell the truth, the whole truth and nothing but the truth) and the honesty and trustworthiness of a witness was investigated thoroughly, thereby, making a statement on oath carried a lot of weight.</explanation>
+			</accusation>
+			<accusation acc="I do swear on my mother’s grave that the child did bewitch my hog while staring at it. ">
+				<result>Guilty</result>
+				<explanation>Oaths were taken very seriously (probably the equivalent of today’s promise in court to tell the truth, the whole truth and nothing but the truth) and the honesty and trustworthiness of a witness was investigated thoroughly, thereby, making a statement on oath carried a lot of weight.</explanation>
+			</accusation>
+			<accusation acc="My good wife complained that her butter was about to turn when the child walked past her and the butter turned rancid.">
+				<result>5 days in the stocks</result>
+				<explanation>While there is no real evidence of, or witnesses to, the accused actually turning the butter rancid, and no statement has been made to the affect that it has happened more than once, it is very possible that the child has upset the good wife at sometime, therefore, his anti-social behaviour will have earned him a light, public punishment</explanation>
+			</accusation>
+			<accusation acc="I saw the Devil in the shape of a monstrous bird peck the child’s right thigh.">
+				<result>Nonsense</result>
+				<explanation>Although the witness may have believed he saw a monstrous bird peck the child’s right thigh, the fact that he knew it was the Devil makes the statement somewhat suspect.</explanation>
+			</accusation>
+		</accuser3>
+		<accuser4>
+			<accusation acc="I saw him make mice!">
+				<result>Guilty</result>
+				<explanation>At the height of the witch trials, this statement would have been taken seriously as there was a perceived connection between the Devil and animals. Therefore, being accused of being able to make live animals would have been seen as real proof of sorcery.  Weight would have been added by the accusation being made by another child.</explanation>
+			</accusation>
+			<accusation acc="He talks to the birds.">
+				<result>5 days in the stocks</result>
+				<explanation>Talking to animals was not acceptable behaviour and upset those who set society’s rules and practices. An adult caught talking to animals would have been accused of talking to the Devil via her familiars. However this child’s main crime is that of unconventional behaviour so a light, public punishment should remind him of this.</explanation>
+			</accusation>
+			<accusation acc="I saw him hand-in-hand with the black man Sunday last.">
+				<result>Ducking</result>
+				<explanation>This accusation would probably have instigated a further investigation; the inference being the accused has been in contact with the Devil but to what extent is still unknown.</explanation>
+			</accusation>
+			<accusation acc="I heard him learning his spells.">
+				<result>Swimming</result>
+				<explanation>This accusation would probably have instigated a further investigation; the inference being that the accused has already had an induction to witchcraft. </explanation>
+			</accusation>
+		</accuser4>
+		<accuser5>
+			<accusation acc="I have often overheard the child’s mother confessing attendance at a witches’ dance and taking the child with her.">
+				<result>Ducking</result>
+				<explanation>Accusations of attendance at witches’ dances or Sabbaths were taken seriously as this inferred the Devil’s power was growing stronger. Further investigation would be needed to determine whether the accused was just an innocent bystander or not.</explanation>
+			</accusation>
+			<accusation acc="I caught him stealing one of my apples and when I did confront him about it, he told me the Devil told him to do it.">
+				<result>3 days in the stocks</result>
+				<explanation>The child probably used the Devil as the reason for stealing in the belief that he would then not be punished. So, two unacceptable bits of behaviour for which light punishment is in order; stealing the apples in the first place, and lying in the second.</explanation>
+			</accusation>
+			<accusation acc="On my oath, I have seen this child change shape and vanish.">
+				<result>Guilty</result>
+				<explanation>Oaths were taken very seriously (probably the equivalent of today’s promise in court to tell the truth, the whole truth and nothing but the truth) and the honesty and trustworthiness of a witness was investigated thoroughly thereby making a statement on oath carry a lot of weight. Shape shifting would have been a serious accusation as this was considered absolute proof of sorcery.</explanation>
+			</accusation>
+			<accusation acc="Every time the child passes our house, my daughter’s body is suddenly seized by such uncontrollable distortion, contortion and writhing, that the three of us, her father, brother and I, can scarce stop her from hurting herself. As soon as the child has left our street, the seizures leave as suddenly as they start.">
+				<result>Guilty</result>
+				<explanation>When an event or incident occurred that could not then be explained medically or scientifically, witchcraft was the obvious cause – it explained everything. This statement contains three convincing pieces of evidence; it states that there are two other witnesses who would be able to testify to the same, it has happened more than once and the accused is always in the vicinity during these seizures.</explanation>
+			</accusation>
+		</accuser5>
+	</case3>
+</trial>

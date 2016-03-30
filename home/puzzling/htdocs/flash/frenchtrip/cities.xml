@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<france>
+	<city name="Paris">
+		<monument name="Notre Dame de Paris" pic="notreDame">
+			<description>Une cathédrale massive et célèbre située au coeur de Paris.</description>
+		</monument>
+		<monument name="La tour Eiffel" pic="eiffelTower">
+			<description>Un très haut monument en haut duquel on peut voir tout Paris.</description>
+		</monument>
+		<monument name="Le Louvre" pic="louvre">
+			<description>C'est le plus grand musée de Paris. Rempli de mystères...</description>
+		</monument>
+		<monument name="Les Champs Elysées" pic="elysee">
+			<description>La rue la plus célèbre et la plus chic de Paris.</description>
+		</monument>
+		<monument name="L'Arc de Triomphe" pic="arc">
+			<description>Une gigantesque arche commémorant le soldat inconnu.</description>
+		</monument>
+		<monument name="La Basilique du Sacré Coeur" pic="sacreCoeur">
+			<description>Une église aux toits arrondis, située sur la butte de Montmartre.</description>
+		</monument>
+		<monument name="Le Centre Georges Pompidou" pic="pompidou">
+			<description>Un musée d'art moderne à l'aspect étrange.</description>
+		</monument>
+		<monument name="Eurodisney" pic="disney">
+			<description>Un parc d'attraction très connu à Paris.</description>
+		</monument>
+	</city>
+</france>

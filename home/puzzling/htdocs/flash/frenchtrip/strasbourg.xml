@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<strasbourg name="Strasbourg">
+	<easy>
+		<question quest="De quel conseil Strasbourg est- il le siège?">
+			<goodanswer>Le Conseil Européen</goodanswer>
+			<wronganswer1>Le Conseil Américain</wronganswer1>
+			<wronganswer2>le Conseil Africain</wronganswer2>
+		</question>
+		<question quest="Quelle est la rivière qui traverse Strasbourg?">
+			<goodanswer>Le Rhin</goodanswer>
+			<wronganswer>La Seine</wronganswer>
+			<wronganswer>Le Shannon</wronganswer>
+		</question>
+		<question quest="Quelle est la frontière la plus proche de Strasbourg?">
+			<goodanswer>La frontière allemande</goodanswer>
+			<wronganswer1>La frontière espagnole</wronganswer1>
+			<wronganswer2>La frontière italienne</wronganswer2>
+		</question>
+	</easy>
+	<medium>
+		<question quest="A quelle région appartient Strasbourg?">
+			<goodanswer>L'Alsace</goodanswer>
+			<wronganswer>La Lorraine</wronganswer>
+			<wronganswer>L'Ile de France</wronganswer>
+		</question>
+		<question quest="En latin, quelle est la traduction de Strateburgum?">
+			<goodanswer>La ville des routes</goodanswer>
+			<wronganswer>La ville des aventures</wronganswer>
+			<wronganswer>La ville de la nuit</wronganswer>
+		</question>
+		<question quest="Qui construisit Argentoratum?">
+			<goodanswer>"Les Romains"</goodanswer>
+			<wronganswer>"Les Parisii"</wronganswer>
+			<wronganswer>"Les Gaulois"</wronganswer>
+		</question>
+	</medium>
+	<hard>
+		<question quest="En 1681 qui  intègre Strasbourg à la France?">
+			<goodanswer>Louis XIV</goodanswer>
+			<wronganswer>Louis XV</wronganswer>
+			<wronganswer>Louis XVI</wronganswer>
+		</question>
+		<question quest="En 1902, Strasbourg appartient à...?">
+			<goodanswer>l'Allemagne</goodanswer>
+			<wronganswer1>la France</wronganswer1>
+			<wronganswer2>la Belgique</wronganswer2>
+		</question>
+		<question quest="En quelle année la ville de Strasbourg devient-elle le siège du Conseil Européen?">
+			<goodanswer>1949</goodanswer>
+			<wronganswer>1944</wronganswer>
+			<wronganswer>1918</wronganswer>
+		</question>
+	</hard>
+</strasbourg>

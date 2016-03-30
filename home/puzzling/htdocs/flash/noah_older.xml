@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "lesson.dtd">
+<lesson>
+<page graphic="example0">Save the animals! You are in charge of loading the animals onto the ark. Where you decide to put each animal will affect the balance of the boat - it must stay afloat even in the roughest storm!</page>
+
+<page graphic="example1">First weigh your animals. Drag weights onto the hooks until the scales balance. When it is balanced, the moments of the forces about the pivot are equal.
+The distance to the pivot is the same for both the animal and the first hook, so the weight of the animal is simply equal to the weight added to the scales.</page>
+
+<page graphic="example2">To help you weigh the heavier animals you are given  scales with a longer lever and two hooks. The extra hook is twice the distance from the pivot than the first hook. The mass of the animal must be calculated from the moments about the pivot of all the weights used.</page>
+
+<page graphic="example2">Hint: A weight attached to the extra hook will appear to be twice as heavy than it actually is.</page>
+
+<page graphic="example3">Once you have weighed your animals, you can place them on the ark. No more than two can go in a room at the same time. Make sure your boat balances OK!</page>
+
+</lesson>

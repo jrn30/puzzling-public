@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<problems>
+	<prob name="prob1" problem="J'ai faim." solution="Mange!"></prob>
+	<prob name="prob2" problem="J'ai soif." solution ="Bois!"></prob>
+	<prob name="prob3" problem="J'ai froid." solution="Couvre-toi!"></prob>
+	<prob name="prob4" problem="Je suis malade." solution="Soigne-toi!"></prob>
+	<prob name="prob5" problem="Je vois très mal." solution="Mets des lunettes!"></prob>
+	<prob name="prob6" problem="La porte est ouverte." solution="Ferme-la!"></prob>
+	<prob name="prob7" problem="La fenêtre est fermée." solution="Ouvre-la!"></prob>
+	<prob name="prob8" problem="Je suis fatigué." solution="Dors!"></prob>
+	<prob name="prob9" problem="Il pleut." solution="Prends ton parapluie!"></prob>
+	<prob name="prob10" problem="Je suis en retard." solution="Cours!"></prob>
+	<prob name="prob11" problem="Je suis nerveux." solution="Détends-toi!"></prob>
+	<prob name="prob12" problem="Je suis mouillé." solution="Sèche-toi!"></prob>
+	<prob name="prob13" problem="C'est dangereux." solution="Fais attention!"></prob>
+	<prob name="prob14" problem="Le sol glisse." solution="Marche doucement!"></prob>
+	<prob name="prob15" problem="J'ai mal aux dents." solution="Vas chez le dentiste!"></prob>
+	<prob name="prob16" problem="Il est triste." solution="Console le!"></prob>
+	<prob name="prob17" problem="Il y a le feu." solution="Appelle les pompiers!"></prob>
+	<prob name="prob18" problem="Il y a eu un accident." solution="Appelle une ambulance!"></prob>
+	
+</problems>

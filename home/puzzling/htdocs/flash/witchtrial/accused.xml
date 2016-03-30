@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<trial>
+	<case1 who="lady">
+		<accuser1 accusation="I did hear my father to declare on his deathbed that the accused had bewitched him unto death. The following day I did demand of the accused whether she had done any bodily harm or hurt unto my late father, unto which she answered and said, 'Surely I did kill thy father.' When I asked why she had not confessed so much the first time she was charged, she answered that her time was not expired for the Devil had given her greater power and a longer time.">
+			<question>Why did you confess then and not now?</question>
+			<judgeNext>Keep a civil tongue woman!</judgeNext>
+			<ans1 rate="1" rate2="1">I said no such thing, nor have I caused harm or death to any person; and there was no evidence last time that I did cause the father to die by bewitching him.</ans1>
+			<ans2 rate="1" rate2="3">I never wished his father no harm but ask his son if he intends to honour the agreement his father never did honour.</ans2>
+			<ans3 rate="1" rate2="2">If I had confessed such an absurd thing to this man, I would have said God was not ready for me to part this life.</ans3>
+		</accuser1>
+		<accuser2 accusation="Every night the pins went from my pincushion into my mouth, and I am wont to vomit all manner of things from my throat. Another time I did vomit from my throat a great quantity of feathers, cotton, yarn, and two large waistcoat buttons, at least as much as would fill my hands. This must be sorcery and it always happened as that witch, the accused, passed the window. I am also tormented exceedingly by cats, and all the cats have the face and voice of the witch.">
+			<question>What type of oath did you make to the Devil that he teaches you this sorcery?</question>
+			<judgeNext>hmmmmm...</judgeNext>
+			<ans1 rate="3" rate2="3">I am innocent. God knows I am innocent from witchcraft. I have afflicted nobody.</ans1>
+			<ans2 rate="3" rate2="3">I say it is this woman who has made an oath with the Devil and not kept it!</ans2>
+			<ans3 rate="3" rate2="3">It is not the Devil or sorcery that torment this woman, it is her imagining!</ans3>
+		</accuser2>
+		<accuser3 accusation="My mother told me that witches hauled her on her belly through the yard like a snake and hauled her over the stone wall but then, she told me different and said that she came over the stone wall herself. She sometimes sucks, pricks and pinches me, and hauls me about under the table at strange hours. My mother has been a-bed a twelve-month or there about, and she has never been out in the day in that twelve-month, but has been very often abroad in the night and sometimes, on her return tells me about those she has afflicted. I did go riding with her once when she rode upon a stick to the next town. When I asked how we could ride a stick, she said the Devil carried the stick.">
+			<question>If you are not a witch, why does even your daughter accuse you of being one?</question>
+			<judgeNext>Hmmm, daughter's word against mother's.</judgeNext>
+			<ans1 rate="1" rate2="1">My daughter does say this because you have made her say so by whatever means you did see fit.</ans1>
+			<ans2 rate="1" rate2="2">My daughter does not know what she says.</ans2>
+			<ans3 rate="1" rate2="3">My daughter has told me of these dreams she has. I do not know why she has such dreams.</ans3>
+		</accuser3>
+		<accuser4 accusation="The accused - whom I very well know - came to me in the shape of my beloved wife, dead since this year past, and did most grievously torment me by choking and almost pressing me to death: and so she did continue afflicting me by times till the day of her examination; also during the time of her examination, the accused did most grievously afflict me; and also several times since; and I believe in my heart that the accused is a witch and that she has often afflicted me by acts of witchcraft.">
+			<question>So you shape shift - how?</question>
+			<judgeNext>Hmmm. Well we shall see.</judgeNext>
+			<ans1 rate="2" rate2="3">It was not me but the Devil there. I am wholly innocent. I am no witch, I never did hurt this person in my life; I have a pure conscience in the matter.</ans1>
+			<ans2 rate="2" rate2="3">God has not taught me how to shape shift so it was not me.</ans2>
+			<ans3 rate="2" rate2="3">Perhaps it was the spirit of his wife - it certainly was not me. Perhaps you should ask this man why the spirit of his wife would want to torment him!</ans3>
+		</accuser4>
+		<accuser5 accusation="On my oath I saw the accused rubbing one of the arms and one of the legs of my sister. The accused did confess that the black man did persuade her to pinch my sister in the knees, arms and shoulders, intimating with her fingers how she did it.Upon the second day of this instant, hearing of my sister to complain of great pricking pains in one of her knees, I did see her knee and observed that she had nine places in her knee which had been pricked, and that every one of the pricks were as though it had been the prick of a thorn. Upon being questioned again, the accused confessed that she had no wax nor clay whereby she had pricked and tormented my sister, only a piece of leather which she had pricked nine times.Upon searching the accused's body, I did find a small, red swelling a little below her right collarbone, which could be none other than the Devil's mark. I did demand of the accused whether she had lain with the black man (meaning the devil). Whereunto the accused did acknowledge that she had been with the Devil often; and that the last time that she was with him was the Friday before she was searched, which was the day of June last past.">
+			<question>You've heard the Priest. When and why did you renounce God to lay with the Devil?</question>
+			<judgeNext>You would deny a Man-of-God's word?</judgeNext>
+			<ans1 rate="1" rate2="3">I know not what he is talking about. I have had no contact with any black man. I have never lain with the Devil. I made no contract with him. I do not have his mark. I never saw the Devil in my life. I am God's servant as God is my witness. And I have not the money to be buying leather, especially when the likes of his sister refuse to pay me for my cures.</ans1>
+			<ans2 rate="1" rate2="1">I never renounced God. As for a Devil's mark, it is nought but an insect bite.</ans2>
+			<ans3 rate="1" rate2="2">I do not know why this Priest says such things. Perhaps it is he who has a pact with the Devil!</ans3>
+		</accuser5>
+	</case1>
+	<case2 who="knuckles">
+		<accuser1 accusation="I and several others were present when the Afflicted, recovering from a fit, told us that her tormentors had declared that she should not have power to go over the threshold of the chamber-door; several times we attempted to lead the Afflicted out of the door, and she was as often thrown into fits as we brought her to the said threshold; to pursue the experiment further we had the said threshold taken up, upon which we were immediately struck with so strong a smell of brimstone that we were scarce able to bear it; the stench spread through the whole house, and afflicted several to the degree that they fell sick in their stomachs, and were much disordered.">
+			<question>What unnatural elements did you call upon to inflict such torment and sickness?</question>
+			<judgeNext>Perhaps  after a little more persuasion you might be more cooperative.</judgeNext>
+			<ans1 rate="2" rate2="2">I know nothing of it. I am innocent. I have done no witchcraft.</ans1>
+			<ans2 rate="2" rate2="2">I use only God's elements for curing.</ans2>
+			<ans3 rate="2" rate2="2">Perhaps if the afflicted had less time to be afflicted, she would be less afflicted!</ans3>
+		</accuser1>
+		<accuser2 accusation="About midnight I was seized with a fit; I saw in my vision seven or eight women who conversed together, and in their conversation called each other by their names; but only one did I hear clearly and that was the accused. Since their arrests I have received no annoyance, except from the accused, who told me when the curate was going to pray with and for me, that I should be little the better for his prayers, for they (the witches) would hinder me from hearing them, which they accordingly did. In one of my attacks I was informed by the accused that she should never be discovered by her name, as the rest had been but she seems to have overlooked the fact that I would be quite capable of giving an accurate description of her.">
+			<question>Name your accomplices and your master demon who drive you to do this, and God will be lenient on you.</question>
+			<judgeNext>We shall see if you still refuse to give up your accomplices after a spell in the county gaol.</judgeNext>
+			<ans1 rate="1" rate2="3">I have no accomplices. It is all false. I know, nor met, no master demon in my life.</ans1>
+			<ans2 rate="2" rate2="3">Perhaps you should ask what she has been drinking to have such visions! </ans2>
+			<ans3 rate="1" rate2="1">Well, I do talk to my hog and my lamb and they do have names, but accomplices...?</ans3>
+		</accuser2>
+		<accuser3 accusation="My sister, who did not know of her coming to the house, became very much afraid, faintish, and sweating; and as soon as the accused came into the room, my sister did fall into such a violent fit of pains that three men were scarce able to hold her, and cried out, 'For Christ's sake, take the Devil out of the room.' And being asked, pointed to the accused, for she was the woman that did torment her. Our mother was advised by a Roman Catholic priest to use a counter-charm, which was to write some words out of the first chapter of St. John's Gospel in a paper, and to tie the paper with an incle (a piece of string or broad tape) three times round her neck, knotted each time which our mother, in one of the times of my sister being afflicted, used; my sister was in a violent fit upon the bed held down by a man, and, recovering a little, complained grievously of a pain in her back and about her middle; immediately we discovered the said incle tied round her middle with seven double knots and one single one: this all who were in the room can swear to.">
+			<question>Why do you not confess wretched woman. Can you not see what harm and torment you put these people through?</question>
+			<judgeNext>We shall see who the tormented one is by the end of this trial, no doubt.</judgeNext>
+			<ans1 rate="2" rate2="2">It is an evil spirit. I m not the tormentor. The Lord knows I have hurt no one. The Devil must have been there. I am innocent. I have tormented nor harmed no one.</ans1>
+			<ans2 rate="2" rate2="2">I torment them? Why do you not ask them why they torment me with these false accusations.</ans2>
+			<ans3 rate="2" rate2="2">I do not need to torment them. It would appear they are tormented without my doing.</ans3>
+		</accuser3>
+		<accuser4 accusation="I was one of the men who held the Afflicted during one of her fits, and by virtue of my oath, she had nothing visible on her arms when I took hold of them, and all in the room were witness to some worsted yarn tied round her wrist appearing, which was put on invisibly; there were upon this string seven double knots and one single one. In another fit, the Afflicted cried out that she was grievously tormented with a pain about her knee; upon which the women in the room looked at her knee, and found a fillet (head/hair-band) tied fast about it; her mother swore to the fillet before everyone in the room, that it was the same she had given her that morning, and had seen it about her daughter's head; this had also seven double knots and one single one.">
+			<question>What sorcery allowed you to do this?</question>
+			<judgeNext>You are a stubborn old woman. Be done and confess.</judgeNext>
+			<ans1 rate="2" rate2="2">It is an evil spirit. I am no witch so cannot say whether it be witchcraft or not.</ans1>
+			<ans2 rate="2" rate2="3">I am no witch so cannot give you an answer.</ans2>
+			<ans3 rate="1" rate2="3">Knots? Do you think these poor fingers can tie knots?</ans3>
+		</accuser4>
+		<accuser5 accusation="In her fits she often had her tongue thrust into her windpipe in such a manner that she was like to choke, and the root seemed pulled up into her mouth. Upon her recovery she complained extremely of her tormentor, who twisted her tongue; and told us that the tormentor had tore her throat, and tortured her violently by reason of her crooked fingers and swelled knuckles. The Afflicted did describe her tormentor's hands so well I was able to have an idea of whom the tormentor was. I took it upon myself to pay a visit to the accused and did examine her hands; all the joints were distorted and the tendons shrivelled up, as had been described.">
+			<question>Do you not see what you are doing to these good people? Will you not repent and confess?</question>
+			<judgeNext>Ah, so you would accuse a priest of lying!</judgeNext>
+			<ans1 rate="1" rate2="3">I m not the tormentor. The Lord knows I have hurt no one. The Devil must have been there. I am innocent.</ans1>
+			<ans2 rate="3" rate2="3">Everyone knows my joints are distorted, it does not take God to show a person.</ans2>
+			<ans3 rate="2" rate2="2">I am not the only person in this town to have swelled knuckles. Life has not been easy!</ans3>
+		</accuser5>
+	</case2>
+	<case3 who="youngboy">
+		<accuser1 accusation="I have often overheard the child's mother confessing attendance at a witches' dance and taking the child with her.">
+			<question>Is this true, little man, does your mother take you to the dances late at night?</question>
+			<judgeNext>Perhaps we need to speak to your mummy...</judgeNext>
+			<ans1 rate="1" rate2="1">Oh no, mummy never comes with me. I'm old enough to go by myself and besides, it's usually after everyone's gone to bed and the others come and collect me on their sticks. No, mummy must go to another witch dance, she never came with me.</ans1>
+			<ans2 rate="1" rate2="2">Yes, I like flying and dancing with my mummy.</ans2>
+			<ans3 rate="2" rate2="3">I've never seen mummy fly or dance, and she never took me with her if she did.</ans3>
+		</accuser1>
+		<accuser2 accusation="I saw with my own eyes the child flying to a witches' dance just four nights last.">
+			<question>So little man, did you fly with the devil?</question>
+			<judgeNext>Mmmm, sounds a bit far-fetched to me.</judgeNext>
+			<ans1 rate="1" rate2="1">Yes, I was fast asleep when two people came and woke me up and lifted me out of bed and we floated out the window and then I saw another person circling on a stick. I was told to climb on behind the person, which I did and off we went.</ans1>
+			<ans2 rate="3" rate2="3">No I wouldn't know how to.</ans2>
+			<ans3 rate="2" rate2="3">No I flew with God.</ans3>
+		</accuser2>
+		<accuser3 accusation="I saw him make mice!">
+			<question>Do you make mice and why mice?</question>
+			<judgeNext>You sound like you're telling the truth!</judgeNext>
+			<ans1 rate="1" rate2="3">Oh yes, I tie knots in my kerchief and my kerchief becomes a mouse, and if I have more than one kerchief, I can make many mice. It's the only thing he showed me how to do.</ans1>
+			<ans2 rate="3" rate2="3">No that would be a wicked thing to do. Only people with magic can do that.</ans2>
+			<ans3 rate="2" rate2="2">Yes, it helps to feed our cats.</ans3>
+		</accuser3>
+		<accuser4 accusation="On oath, I swear I did see the child renounce God in words written with his own blood.">
+			<question>Did your father see true?</question>
+			<judgeNext>You are perhaps too good at lying.</judgeNext>
+			<ans1 rate="2" rate2="2">I don't remember.</ans1>
+			<ans2 rate="2" rate2="2">I don't know, this man is not my father.</ans2>
+			<ans3 rate="2" rate2="2">No, my father is a well known liar.</ans3>
+		</accuser4>
+		<accuser5 accusation="I overheard the child deny God, Mary and all the saints and angels; and speak of acts with the devil of a sexual nature.">
+			<question>Diabolique! Is this true? How long have you denied God? When did the Devil come knocking at your door and what did you do?</question>
+			<judgeNext>Mmmm, perhaps you do tell the truth.</judgeNext>
+			<ans1 rate="1" rate2="1">Well, I was doing my studies and this yellow bird told me I'd never need to worry about my studies again as long as I did what the black man (Devil) told me to do. When I asked what kind of things, the bird just said to enjoy it while it lasted. But that I must say nothing to no one.</ans1>
+			<ans2 rate="2" rate2="3">I have never denied God as God knows. I never met the Devil in my life.</ans2>
+			<ans3 rate="1" rate2="1">I answered the door and offered the Devil a cup of tea. That's when I renounced God.</ans3>
+		</accuser5>
+	</case3>
+</trial>

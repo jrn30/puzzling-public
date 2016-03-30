@@ -1,0 +1,59 @@
+<uk>
+	<sea name="Atlantic Ocean">
+		<fact>The name comes from the Greek "Atlantikos Pelagos" from the Isle of Atlantes (the submerged continent). Atlantis was a source of inspiration for Greek poets.</fact>
+		<hint>the second biggest ocean in the world</hint>
+	</sea>
+	<sea name="English Channel">
+		<fact>In 1785, J. P. Blanchard and Dr. John Jeffries crossed the Channel by balloon; the first person to swim across it was Matthew Webb (1875); and the first airplane crossing was made by Bleriot in 1909.</fact>
+		<hint>a channel separating France from England</hint>
+	</sea>
+	<sea name="North Sea">
+		<fact>The North Sea is famous for its oil exploitation (since 1970), and for its cod and herring fisheries.</fact>
+		<hint>a sea located east of UK</hint>
+	</sea>
+	<sea name="Irish Sea">
+		<fact>The Irish Sea is called "Muir Eireann" in Irish. It separates Ireland from England, hence its name.</fact>
+		<hint>a sea between the U.K. and Ireland</hint>
+	</sea>
+	<sea name="Celtic Sea">
+		<fact>The Celts (or Kelts) were Indo-European people who from the second millennium BC to the first century BC spread over much of Europe. Their culture was eradicated by the Roman Empire; the last remains of it were found in Wales, Ireland, Brittany and Cornwall.</fact>
+		<hint>an open sea between Ireland, Britany and Cornwall</hint>
+	</sea>
+	<sea name="Bristol Channel">
+		<fact>The city of Bristol (southwest England) is, among other things, very famous for its glass. Its blue glass is very popular around the world, and its white, opaque milky glass (made in the 18th century) is one of the rarest glasses in the world. </fact>
+		<hint>a channel in between Cornwall and Wales</hint>
+	</sea>
+	<sea name="St George's Channel">
+		<fact>Named after the legend of St George (year 486). In a modern version of the legend, St George rescues the Pagans from Evil by going to Libya to save the local princess (symbolising the Catholic church) from being the dragon's (symbolising Satan) next meal!</fact>
+		<hint>a channel between Ireland and Wales</hint>
+	</sea>
+	<sea name="North Channel">
+		<fact>There is some debate as to whether this is a channel technically speaking, or a strait with some people seeing it more as a strait linking the Irish Sea with the North Atlantic Ocean, than a channel. </fact>
+		<hint>a channel located on the north of Ireland</hint>
+	</sea>
+	<sea name="Dover Strait">
+		<fact>7000 years ago this strait was an exposed river valley, thus making England an extension of the European continent. The name Dover originally meant "the waters" or "the stream."</fact>
+		<hint>the link between the North Sea and the English Channel</hint>
+	</sea>
+	<sea name="Loch Ness">
+		<fact>Loch Ness is famous for its mythical (so far) monster Nessie. The possibility of its existence - perhaps in the form of a solitary survivor of the long-extinct plesiosaurs - continues to intrigue many but remains unproved.</fact>
+		<hint>a big lake located in the north of Scotland</hint>
+	</sea>
+	<sea name="Trent">
+		<fact>It rises in the county of Staffordshire and, after flowing southeastward, northeastward, and then northward for 168 miles (270 km), enters the Humber estuary 40 miles (65 km) from the North Sea. </fact>
+		<hint>a river located in north-east England</hint>
+	</sea>
+	<sea name="Thames">
+		<fact>The traditional source at Thames Head, which is dry for much of the year, is marked by a stone in a field 356 feet (108.5 metres) above sea level and 3 miles (5 km) southwest of the town of Cirencester.</fact>
+		<hint>the most famous river in England</hint>
+	</sea>
+	<sea name="Severn">
+		<fact>Called "Hafren" in Welsh, the Severn is Britain's longest river from source to tidal waters (about 180 miles [290 km]).</fact>
+		<hint>a Welsh river</hint>
+	</sea>
+	<sea name="Shannon">
+		<fact>The Shannon is Ireland's longest river. As the main river draining the central lowland of Ireland, it is surrounded by marshes and bogs for much of its course and widens at various points into lakes, many with islands.
+</fact>
+		<hint>an Irish river</hint>
+	</sea>
+</uk>

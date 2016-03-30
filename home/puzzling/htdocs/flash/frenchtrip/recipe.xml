@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<france>
+	<recette name="Coq au vin blanc">
+		<ingredient pic="butter">du beurre</ingredient>
+		<ingredient pic="chicken">du poulet</ingredient>
+		<ingredient pic="onion">des onions</ingredient>
+		<ingredient pic="carrot">des carottes</ingredient>
+		<ingredient pic="garlic">de l'ail</ingredient>
+		<ingredient pic="whiteWine">du vin blanc</ingredient>
+		<ingredient pic="saltPepper">du sel et du poivre</ingredient>
+	</recette>
+	<recette name="Coq au vin rouge">
+		<ingredient pic="chicken">du poulet</ingredient>
+		<ingredient pic="butter">du beurre</ingredient>
+		<ingredient pic="onion">des onions</ingredient>
+		<ingredient pic="ham">du jambon</ingredient>
+		<ingredient pic="garlic">de l'ail</ingredient>
+		<ingredient pic="redWine">du vin rouge</ingredient>
+		<ingredient pic="saltPepper">du sel et du poivre</ingredient>
+	</recette>
+	<recette name="Etouffade de pommes de terre">
+		<ingredient pic="potato">des pommes de terre</ingredient>
+		<ingredient pic="onion">des onions</ingredient>
+		<ingredient pic="chicken">du poulet</ingredient>
+		<ingredient pic="ham">du jambon</ingredient>
+		<ingredient pic="saltPepper">du sel et du poivre</ingredient>
+	</recette>
+	<recette name="Pot au feu">
+		<ingredient pic="onion">des onions</ingredient>
+		<ingredient pic="ham">du jambon</ingredient>
+		<ingredient pic="celery">du céleri</ingredient>
+		<ingredient pic="carrot">des carottes</ingredient>
+		<ingredient pic="redMeat">de la viande rouge (boeuf)</ingredient>
+		<ingredient pic="saltPepper">du sel et du poivre</ingredient>
+	</recette>
+	<recette name="Omelette au fromage et aux croutons">
+		<ingredient pic="eggs">des oeufs</ingredient>
+		<ingredient pic="butter">du beurre</ingredient>
+		<ingredient pic="cheese">du fromage</ingredient>
+		<ingredient pic="bread">des tranches de pain</ingredient>
+		<ingredient pic="saltPepper">du sel et du poivre</ingredient>
+	</recette>
+</france>

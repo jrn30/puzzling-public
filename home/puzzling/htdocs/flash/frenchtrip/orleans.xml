@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<orleans name="Orléans">
+	<easy>
+		<question quest="Qui étaient les Carnutes?">
+			<goodanswer>Une tribue celte</goodanswer>
+			<wronganswer1>Une équipe de football</wronganswer1>
+			<wronganswer2>Une légion romaine</wronganswer2>
+		</question>
+		<question quest="Comment les romains ont-ils baptisé la ville d'Orléans en 52 av.J.-C. ?">
+			<goodanswer>Aurelianum</goodanswer>
+			<wronganswer>Babaorum</wronganswer>
+			<wronganswer>Petibonum</wronganswer>
+		</question>
+		<question quest="Qui est la Sainte Patronne de la ville d'Orléans?">
+			<goodanswer>"Jeanne d'Arc"</goodanswer>
+			<wronganswer>"Clovis"</wronganswer>
+			<wronganswer>"Madonna"</wronganswer>
+		</question>
+	</easy>
+	<medium>
+		<question quest="Qui était Clovis?">
+			<goodanswer>Le roi des Francs</goodanswer>
+			<wronganswer1>L'empereur des Romains</wronganswer1>
+			<wronganswer2>Le chef des Gaulois</wronganswer2>
+		</question>
+		<question quest="En quelle année Aurelianum fut-elle prise par Clovis?">
+			<goodanswer>en 498</goodanswer>
+			<wronganswer>en 52 av. J-C</wronganswer>
+			<wronganswer>en 1429</wronganswer>
+		</question>
+		<question quest="Quel était le surnom de Jeanne d'Arc?">
+			<goodanswer>La pucelle d'Orléans</goodanswer>
+			<wronganswer1>La demoiselle d'Orléans</wronganswer1>
+			<wronganswer2>La guerrière d'Orléans</wronganswer2>
+		</question>
+	</medium>
+	<hard>
+		<question quest="Quelles sont les dates de la 'guerre de 100 ans'?">
+			<goodanswer>"1337-1453"</goodanswer>
+			<wronganswer>"1237-1353"</wronganswer>
+			<wronganswer>"1137-1253"</wronganswer>
+		</question>
+		<question quest="En quelle année Jules César a-t-il envahi la Gaule?">
+			<goodanswer>en 52 av. J-C</goodanswer>
+			<wronganswer1>en 496</wronganswer1>
+			<wronganswer2>en 252 av. J-C</wronganswer2>
+		</question>
+		<question quest="Avant que César ne la brûle et la reconstruise, sous quel nom Orléans était-elle connue?">
+			<goodanswer>Genabum</goodanswer>
+			<wronganswer1>Anonierum</wronganswer1>
+			<wronganswer2>Pichardum</wronganswer2>
+		</question>
+	</hard>
+</orleans>

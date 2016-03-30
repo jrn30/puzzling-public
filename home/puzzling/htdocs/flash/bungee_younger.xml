@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "lesson.dtd">
+<lesson>
+
+<page graphic="example4">When ropes are stretched by a weight, they obey a law called Hooke's Law. This says that the change in the length of a rope is proportional to the force applied to it.</page>
+
+<page graphic="example5">The value of the constant k depends on the type of material used to make the rope. A steel rope would have a very high value of k, and so a large force is needed to extend the rope. A rubber rope would have a much lower value of k, and so would be easier to stretch.</page>
+
+</lesson>

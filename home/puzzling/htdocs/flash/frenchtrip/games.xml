@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<game>
+	<question quest="Lorsque vous avez froid aux pieds, vous enfilez:">
+		<goodanswer>Une paire de chaussettes</goodanswer>
+		<wronganswer1>Une paire de gants</wronganswer1>
+		<wronganswer2>Une paire de lunettes</wronganswer2>
+	</question>
+	<question quest="Si tu as mal aux dents, qui vas-tu voir?">
+		<goodanswer>Le dentiste</goodanswer>
+		<wronganswer>Le plombier</wronganswer>
+		<wronganswer>Le garagiste</wronganswer>
+	</question>
+	<question quest="Quel monument parisien est un musée d'art moderne?">
+		<goodanswer>"Le Centre Georges Pompidou"</goodanswer>
+		<wronganswer>"La tour Effeil"</wronganswer>
+		<wronganswer>"Le Sacré Coeur"</wronganswer>
+	</question>
+	<question quest="Quel ingrédient peut-on trouver dans la recette du Coq au Vin?">
+		<goodanswer>"Du poulet"</goodanswer>
+		<wronganswer>"Du requin"</wronganswer>
+		<wronganswer>"Du pigeon"</wronganswer>
+	</question>
+	<question quest="Quelle est la couleur d'un poussin?">
+		<goodanswer>jaune</goodanswer>
+		<wronganswer>vert</wronganswer>
+		<wronganswer>bleu</wronganswer>
+	</question>
+</game>

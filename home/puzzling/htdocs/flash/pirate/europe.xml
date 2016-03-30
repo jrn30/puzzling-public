@@ -1,0 +1,42 @@
+<europe>
+	<sea name="Caspian Sea">
+		<fact>The Caspian Sea is in fact a saltwater lake, the largest one in the world. The sea is important to world energy markets because of its potential to become a major oil and natural gas exporter over the next decade.</fact>
+		<hint>an inland water mass between Europe and Asia</hint>
+	</sea>
+	<sea name="Mediterranean Sea">
+		<fact>The Mediterranean Sea used to be called "Mediterraneus" from the Latin "medius" and "terra". "Medi" stands for middle and "terraneus" stands for land - "The sea in the middle of lands".</fact>
+		<hint>an inland sea in between Europe and Africa</hint>
+	</sea>
+	<sea name="Black Sea">
+		<fact>8000 years ago, the Mediterranean Sea flooded the Black Sea in a catastrophic way. Some scientists think that this event may have been the original source for the biblical story of the Deluge (Noah and his ark).</fact>
+		<hint>an inland sea in between Europe and Asia</hint>
+	</sea>
+	<sea name="Baltic Sea">
+		<fact>The Baltic Sea is less salty than the other seas. This is due to many rivers entering the sea, and parts of the sea freeze over in winter.</fact>
+		<hint>an inland sea in Europe</hint>
+	</sea>
+	<sea name="North Sea">
+		<fact>The North Sea is famous for its oil exploitation (since 1970), and for its cod and herring fisheries.</fact>
+		<hint>a sea located in North Europe</hint>
+	</sea>
+	<sea name="English Channel">
+		<fact>In 1785, J. P. Blanchard and Dr. John Jeffries crossed the Channel by balloon; the first person to swim across it was Matthew Webb (1875); and the first airplane crossing was made by Bleriot in 1909.</fact>
+		<hint>the Eurostar passes below this sea</hint>
+	</sea>
+	<sea name="White Sea">
+		<fact>There are lumber exports, fisheries (herring and cod), and seal herds in the White Sea. In the 1990s, it came to light that the Soviet navy used the sea as a dump for its spent nuclear reactor.</fact>
+		<hint>a small sea located on the North of Europe</hint>
+	</sea>
+	<sea name="Norwegian Sea">
+		<fact>The warm Norwegian current gives the Norwegian Sea generally ice-free conditions.</fact>
+		<hint>a large open sea located on the North of Europe</hint>
+	</sea>
+	<sea name="Barents Sea">
+		<fact>The sea was named after Willem Barentz (1597), a Dutch navigator. The extent of his explorations and the accuracy of his charts made him one of the most important of all arctic explorers.</fact>
+		<hint>a large sea located on the North of Europe</hint>
+	</sea>
+	<sea name="Atlantic Ocean">
+		<fact>The name comes from the Greek "Atlantikos Pelagos" from the Isle of Atlantes (the submerged continent). Atlantis was a source of inspiration for Greek poets.</fact>
+		<hint>the second biggest ocean</hint>
+	</sea>
+</europe>

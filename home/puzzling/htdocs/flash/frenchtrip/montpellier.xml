@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<nantes name="Nantes">
+	<easy>
+		<question quest="Qu'est-ce que le pastel?">
+			<goodanswer>Une plante</goodanswer>
+			<wronganswer1>Un animal</wronganswer1>
+			<wronganswer2>Un rocher</wronganswer2>
+		</question>
+		<question quest="Laquelle de ces expressions est-elle correcte?">
+			<goodanswer>'Bleu pastel'</goodanswer>
+			<wronganswer>'Vert pastel'</wronganswer>
+			<wronganswer>'Orange pastel'</wronganswer>
+		</question>
+		<question quest="Quelle couleur est associée au pastel?">
+			<goodanswer>Bleu</goodanswer>
+			<wronganswer1>Rouge</wronganswer1>
+			<wronganswer2>Vert</wronganswer2>
+		</question>
+	</easy>
+	<medium>
+		<question quest="De quelle langue le mot 'Ethymologie' est-il dérivé?">
+			<goodanswer>Du grec</goodanswer>
+			<wronganswer1>Du romain</wronganswer1>
+			<wronganswer2>Du français</wronganswer2>
+		</question>
+		<question quest="En grec ancient, que signifie 'Ethymologie'?">
+			<goodanswer>L'étude de l'origine des mots</goodanswer>
+			<wronganswer>L'étude de la vie</wronganswer>
+			<wronganswer>L'étude de la politique</wronganswer>
+		</question>
+		<question quest="Qui a construi en premier un château à Montpellier">
+			<goodanswer>"Guilhem et ses héritiers"</goodanswer>
+			<wronganswer>"Melgueil et ses héritiers"</wronganswer>
+			<wronganswer>"Philippe le Bel et ses héritiers"</wronganswer>
+		</question>
+	</medium>
+	<hard>
+		<question quest="En quelle année la ville de Montpellier a-t-elle été donnée au chevalier Guilhem?">
+			<goodanswer>au 10ème siècle</goodanswer>
+			<wronganswer>en 1292</wronganswer>
+			<wronganswer>en 1192</wronganswer>
+		</question>
+		<question quest="Quand est-ce que Philippe le Bel a rattaché Montpellier à la France?">
+			<goodanswer> en 1292</goodanswer>
+			<wronganswer1>au 10ème siécle</wronganswer1>
+			<wronganswer2> en 1192</wronganswer2>
+		</question>
+		<question quest="Quel était le nom de Montpellier à la fin du 10ème siècle?">
+			<goodanswer>Monte Pestelario</goodanswer>
+			<wronganswer>Monte Christo</wronganswer>
+			<wronganswer>Monte Pelliano</wronganswer>
+		</question>
+	</hard>
+</nantes>

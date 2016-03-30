@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<nantes name="Nantes">
+	<easy>
+		<question quest="Dans la mythologie romaine, quel dieu est Neptune?">
+			<goodanswer>Le dieu des mers</goodanswer>
+			<wronganswer1>Le dieu des vents</wronganswer1>
+			<wronganswer2>Le dieu du soleil</wronganswer2>
+		</question>
+		<question quest="Dans quelle mythologie Neptune était-il le dieu des mers?">
+			<goodanswer>Dans la mythologie romaine</goodanswer>
+			<wronganswer>Dans la mythologie grecque</wronganswer>
+			<wronganswer>Dans la mythologie aztèque</wronganswer>
+		</question>
+		<question quest="La devise de Nantes est:">
+			<goodanswer>Neptune sourit aux voyageurs</goodanswer>
+			<wronganswer1>Jupiter est le dieu des éclairs</wronganswer1>
+			<wronganswer2>Mercure favorise les Nantais</wronganswer2>
+		</question>
+	</easy>
+	<medium>
+		<question quest="Qui étaient les premiers Nantais?">
+			<goodanswer>La tribu gauloise des Namnètes</goodanswer>
+			<wronganswer>Les romains</wronganswer>
+			<wronganswer>La tribu gauloise des Parisii</wronganswer>
+		</question>
+		<question quest="En quelle année César a-t-il envahi la Gaule?">
+			<goodanswer>en 52 av.J.-C.</goodanswer>
+			<wronganswer>en 1887</wronganswer>
+			<wronganswer>en 5000 av.J.-C.</wronganswer>
+		</question>
+		<question quest="Les Namnètes était le nom...">
+			<goodanswer>"D'une tribu gauloise"</goodanswer>
+			<wronganswer>"D'une légion romaine"</wronganswer>
+			<wronganswer>"D'une marque de vêtements"</wronganswer>
+		</question>
+	</medium>
+	<hard>
+		<question quest="Sur quelle rivière la ville de Nantes est-elle située?">
+			<goodanswer>La Loire</goodanswer>
+			<wronganswer>La Garonne</wronganswer>
+			<wronganswer>Le Rhône</wronganswer>
+		</question>
+		<question quest="En latin, que signifie la phrase 'Favet Neptunus eunti'?">
+			<goodanswer>Neptune sourit aux voyageurs</goodanswer>
+			<wronganswer1>Neptune aide les voyageurs</wronganswer1>
+			<wronganswer2>Neptune protège les voyageurs</wronganswer2>
+		</question>
+		<question quest="L'emblème de la ville de Nantes est un navire...?">
+			<goodanswer>...aux voiles d'argent</goodanswer>
+			<wronganswer>...aux voiles d'or</wronganswer>
+			<wronganswer>...aux voiles de bronze</wronganswer>
+		</question>
+	</hard>
+</nantes>

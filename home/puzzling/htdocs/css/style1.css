@@ -1,0 +1,120 @@
+/* General styles */
+
+body,div,p,li,h1,h2,h3,h4,h5,h6,input,textarea,select  {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+body,div,p,li,h1,h2,h3,h4,h5,h6 {
+	color: #FFFFFF;
+}
+
+body {
+	background: #0F1030;
+ 	margin: 0px;
+}
+
+a, a:visited {
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1 { font-size: 150%; }
+h2 { font-size: 120%; }
+h3 { font-size: 110%; }
+
+h1,h2,h3 {
+	font-weight: normal;
+}
+
+div#topimages {
+	height: 77px;
+}
+
+div#menubar, div#submenubar {
+  color: #FFFFFF;
+}
+
+div#menubar {
+  background: #9196A3 url(../images/design1/menu_background.gif) repeat-x;
+}
+
+div#submenubar {
+  font-size: 70%;
+  background: #999999 url(../images/design1/sub_menu_background.gif) repeat-x;
+}
+
+div#menubar li, div#submenubar li {
+   font-weight: bold;
+   padding: 0.2em 4px;
+}
+
+div#menubar a, div#submenubar a {
+  font-weight: normal;
+}
+
+
+/* Content & puzzle box styles */
+
+div#content {
+ padding-top: 0.25em;
+ padding-left: 0.5em;
+ padding-bottom: 1.5em;
+}
+
+div#arts, div#science {
+  position: absolute;
+  text-align: center;
+}
+
+div#science {
+  left: 520px;
+  top: 140px;
+  width: 125px;
+  height: 460px;
+  padding: 0px 5px 0px 5px;
+  background: url(../images/design1/science_background.gif) no-repeat 5px 0px;
+}
+
+div#arts {
+  left: 15px;
+  top: 440px;
+  width: 270px;
+  padding: 0px 10px 0px 10px;
+  height: 155px;
+  background: url(../images/design1/arts_background.gif) no-repeat 5px 0px;
+}
+
+div#random {
+  position: absolute;
+  left: 340px;
+  top: 445px;
+  width: 140px;
+  height: 140px;
+}
+
+div#bottomimages {
+  width: 100%;
+  background: #8E91A4 url(../images/design1/bottom_menu_background.gif) repeat-x bottom left;
+}
+
+img.gameicon {
+	border: #000000 1px solid;
+	margin: 1px;
+	padding: 0px;
+}
+
+img#art0 { margin-left: 10px; }
+img#art4 { margin-right: 10px; }
+
+div.gamedesc {
+	font-size: 120%;
+}
+
+img.intrologo {
+	margin: 2px;
+}

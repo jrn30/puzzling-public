@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "lesson.dtd">
+<lesson>
+<page graphic="">Black Box is a logical puzzle game. 
+You are given a 'black box' which contains several silver balls. You must find out exactly where the balls are inside the box. To do this, you can fire a laser beam through the sides of the box by clicking on any of the triangular laser guns around it. When the beam hits a silver ball, it is reflected by its shiny surface and deflected through 90 degrees. By firing laser beams into the box at different places and seeing where they come out, you can work out where the balls are.
+If you think you know where a ball is, you can mark its position with a question mark by clicking the mouse. When you have marked the position of all the balls, you can check your answers by clicking on the 'Check Guesses' button.
+As you solve each level, the game will get progressively harder, with more balls being added to keep you on your toes!
+For a demonstration, click the 'Start Demo' button below.
+</page>
+</lesson>

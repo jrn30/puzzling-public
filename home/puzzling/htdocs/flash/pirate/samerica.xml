@@ -1,0 +1,26 @@
+<southAmerica>
+	<sea name="Caribbean Sea">
+		<fact>Christopher Columbus was the first European to discover the Caribbean Sea when he landed on the island of San Salvador in the eastern Bahamas in 1492. Columbus was convinced at that time that he had discovered a new route to Asia.</fact>
+		<hint>a South America Northern sea with multiple islands</hint>
+	</sea>
+	<sea name="Atlantic Ocean">
+		<fact>The name comes from the Greek "Atlantikos Pelagos" from the Isle of Atlantes (the submerged continent). Atlantis was a source of inspiration for Greek poets.</fact>
+		<hint>the second biggest ocean in the world</hint>
+	</sea>
+	<sea name="Magellan Strait">
+		<fact>Named after Ferdinand Magellan (1520), a Portuguese explorer sailing for Spain. Magellan's expedition eventually completed the first tour around the world.</fact>
+		<hint>a strait located in Southern South America</hint>
+	</sea>
+	<sea name="Scotia Sea">
+		<fact>The Scotia Sea is named after the Scottish National Antarctic Expedition (1902-1904) vessel Scotia. The sea used to be famous for its hundreds of different sea mammal species. Now, following human predation, most species are at the point of extinction. </fact>
+		<hint>a sea located South of South America</hint>
+	</sea>
+	<sea name="Southern Ocean">
+		<fact>This particular ocean was recognized by the International Hydrographic Organization in the spring of 2000. It is now the fourth largest of the world's five oceans (after the Pacific Ocean, Atlantic Ocean, and Indian Ocean, but larger than the Arctic Ocean). </fact>
+		<hint>the second smallest ocean in the world</hint>
+	</sea>
+	<sea name="Pacific Ocean">
+		<fact>Magellan was the first to traverse the Pacific Ocean in 1521. He named it Pacific probably because the weather was clear and the sea was calm during his crossing.</fact>
+		<hint>the biggest ocean in the world</hint>
+	</sea>
+</southAmerica>

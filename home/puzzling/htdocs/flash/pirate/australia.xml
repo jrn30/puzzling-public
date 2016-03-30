@@ -1,0 +1,42 @@
+<australia>
+	<sea name="Coral Sea">
+		<fact>The Coral Sea owes its name to the Great Barrier Reef which lies along its western edge. This coral reef is very vast, and it is said to be composed of 200 differents coral species.</fact>
+		<hint>a sea rich in Coral, located on the East side of Australia</hint>
+	</sea>
+	<sea name="Tasman Sea">
+		<fact>The Tasman Sea was named after the Dutch explorer, Abel Tasman. He was the first European explorer to demonstrate that Australia was an island.</fact>
+		<hint>a South Australian Sea</hint>
+	</sea>
+	<sea name="Pacific Ocean">
+		<fact>Magellan was the first to traverse the Pacific Ocean in 1521. He named it Pacific probably because the weather was clear and the sea was calm during his crossing.</fact>
+		<hint>the biggest ocean in the world</hint>
+	</sea>
+	<sea name="Indian Ocean">
+		<fact>The Indian Ocean owes its name to its geographical position around the Indian Peninsula".</fact>
+		<hint>the 3rd biggest ocean in the world</hint>
+	</sea>
+	<sea name="Great Australian Bight">
+		<fact>The Great Australian Bight is a wide bay which is prone to violent storms in winter time.</fact>
+		<hint>A wide bay located on the south of Australia</hint>
+	</sea>
+	<sea name="Java Sea">
+		<fact>The Java Sea was named after the Indonesian island, Java which is Indonesia's fifth largest island. Java is also one of the most densely populated regions in the world.</fact>
+		<hint>an Indonesian sea</hint>
+	</sea>
+	<sea name="Banda Sea">
+		<fact>The reefs and currents make this sea very difficult and very dangerous to sail.</fact>
+		<hint>a sea located on the North of Australia, inside Indonesia</hint>
+	</sea>
+	<sea name="Timor Sea">
+		<fact>The sea is named after the Island of Timor. Its major natural resource, petroleum - worth more than US$30 billion - lies under the Timor Sea between East Timor and Australia.</fact>
+		<hint>an open sea located on the North of Australia</hint>
+	</sea>
+	<sea name="Arafura Sea">
+		<fact>This sea is a new emerging oil exploration area between the southern coast of the island of Irian Jaya south to the coast of NW Australia at Arnhem Land.</fact>
+		<hint>a shallow sea located in the North of Australia</hint>
+	</sea>
+	<sea name="Gulf of Carpentaria">
+		<fact>On the eastern shore of the gulf lies a vast bauxite deposit. Bauxite is the chief source of aluminium (first discovered at Baux in France).</fact>
+		<hint>a northern Australian gulf</hint>
+	</sea>
+</australia>

@@ -1,0 +1,115 @@
+body,p,td,li,h1,h2,h3,input,textarea,select,a  {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body,div,p,li,h1,h2,h3,h4,h5,h6 {
+	color: #000000;
+}
+
+body {
+    background: #FFFFFF url(../images/design4/background.gif) no-repeat;
+    margin-top: 2px;
+}
+
+a, a:visited {
+	color: #009999;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1 { font-size: 150%; }
+h2 { font-size: 120%; }
+h3 { font-size: 110%; }
+
+h2,h3 {
+	font-weight: normal;
+}
+
+div#topimages {
+	height: 50px;
+}
+
+div#menuwrapper {
+  margin-left: 300px;
+}
+
+div#menubar {
+  background-color: #000000;
+}
+
+div#submenubar {
+  background-color: #004848;
+  font-size: 80%;
+}
+
+div#menubar li, div#submenubar li {
+	color: #FFFFFF;
+	padding: 0.3em 0 0.3em 8px;
+}
+
+div#menubar a, div#submenubar a {
+	color: #00cccc;
+}
+
+
+div#content {
+padding-top: 35px;
+  padding-bottom: 1.5em;
+  width: 95%;
+}
+
+div#science, div#arts, div#random {
+  border: 1px dashed #006666;
+  padding: 0.5em;
+}
+
+div#science {
+  width: 250px;
+  margin: 10px 0.25em 1em 0.25em;
+  float: left;
+}
+
+div#arts {
+  width: 270px;
+  float: left;
+  margin: 30px 0.25em 0.25em 2.5em;
+}
+
+div#random {
+  width: 240px;
+  clear: both;
+  margin: 30px 0 30px 100px;
+}
+
+div#bottomimages {
+  width: 100%;
+  background-color: #000000;
+}
+
+div.gamedesc {
+	font-size: 120%;
+	padding-top: 1px;
+}
+
+img.gameicon {
+	border: #004848 1px solid;
+	margin: -1px 0px 0px -1px;
+	padding: 0px;
+	width: auto;
+}
+
+img.intrologo {
+	border: #004848 1px solid;
+	margin: 2px;
+}
+
+img.agebutton {
+  margin: 0px 5px 0px 5px;
+}
+
+ul {
+  list-style: url(../images/design4/standardbullet.gif) disc;
+}

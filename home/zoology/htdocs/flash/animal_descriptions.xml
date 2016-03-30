@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "animal_document.dtd">
+
+<document>
+
+
+<animalinfo animal="warrawoona">
+<title>Warrawoona</title>
+<body>Warrawoona microfossils are the oldest known fossils, discovered in rocks laid down over 3,500 million years ago in Western Australia. There was initially intense debate about whether the structures found in these rocks are evidence of life, or simply a feature of the rocks. However, close examination would seem to suggest that they are the remains of domed stromatalites - layered structures built up of the remanants of filaments of cylindracal cells. This simple morphology is similar to some groups of living bacteria, especially cycanobacteria and are a good clue to the earliest forms of life on the planet.
+(Thanks to the Sedgwick Museum for allowing us to take photographs of their selection of fossils).
+</body>
+<photo name="warrawoona1" />
+</animalinfo>
+
+
+<animalinfo animal="acritarchs">
+<title>Acritarchs</title>
+<body>Precambrian acritarchs are thought to be the small, resistant cysts of unknown, single-celled algae-like organisms. Some are very simple spheres and ellipsoids, often found squashed under the weight of rock, with the rims of their cysts broken. Other forms are more elaborate with ornamented surfaces. The oldest acritarchs date from around 1,800 million years ago.
+</body>
+</animalinfo>
+
+
+<animalinfo animal="charniodiscus">
+<title>Chariodiscus</title>
+<body>Chariodiscus, from the Ediacaran fauna of Shropshire. This frond-shaped animal, about 20in (50cm) long, lived tethered to the bottom by its bulbous holdfast, looking like a large feather sticking out of the sea floor. The frond on either side of the central axis has the quilted construction typical of many Ediacaran animals. This animal could be a cnidarian, possibly related to living sea pens. It is thought that the side-fronds carried tiny tentacles that combed the water and caught bacteria and algal cells to eat.
+</body>
+</animalinfo>
+
+
+<animalinfo animal="spriggina">
+<title>Spriggina</title>
+<body>Spriggina, an Ediacaran fossil, seemed to be quite large for its time at about 1.5 - 4in (4 - 10cm) long. Some scientists have interpreted this to be an early annelid worm, or even a protoarthropod, with a body structure that already appears to have divisions like all insects, worms and other invertebrates. On some fossils, a distinct 'head' can be seen, followed by a segmented body. Others think it is a colonial cnidarian-like animal with a bottom holdfast and a quilted, upright series of chambers.
+</body>
+</animalinfo>
+
+
+
+
+<animalinfo animal="trilobite">
+<title>Trilobite</title>
+<body>Trilobites were the beetles of their day - in fact, they are distant ancestors of all beetles, insects and crustaceans we see today, and share many characteristics with them. They have the jointed legs and hard exoskeleton that define the arthropod group. They have a head, segmented abdomen and a tail piece, with many pairs of legs underneath. Some of these legs are adapted for swimming or eating while others carry gills for breathing. They vary in size from some less than one centimetre to others over 70cms long.
+(Thanks to the Sedgwick Museum for allowing us to take photographs of their selection of fossils).
+</body>
+<photo name="picture1" />
+<photo name="picture2" />
+<sketch name="trilobitesketch" />
+</animalinfo>
+
+
+<animalinfo animal="anomalocaris">
+<title>Anomalocaris</title>
+<body>This strange ancestor of the arthropods is so different from anything else, that for many years after its discovery people thought the fossils were from three separate animals! It was the top predator of those seas full of early life, and grew to over a metre in length (at a time when its trilobite prey usually only grew to 50cms). It has a large, smoothly domed head with a muscular circular mouth beneath it, and two large grasping ‘tentacles’ that help to move food to the mouth to be chewed. On top of the head are two large prominent eyes to help it hunt in the gloomy depths. It swims through the water by flapping the fringes on either side of the body.
+</body>
+<sketch name="anomalocarissketch" />
+</animalinfo>
+
+
+<animalinfo animal="algae">
+
+<title>Algae</title>
+<body>Here we are at the very beginning of the evolution of nearly all of the plants we know today. Algae were the first photosynthetic cells on Earth, and so were the first things to convert sunlight into food; a process that is at the root of almost every ecosystem on this planet. Along with sponges, algae were also among the first multi-celled organisms ever seen on this planet as they grouped together for defence and convenience. Not only that, but they were the first organisms to reproduce sexually, swapping genetic material and creating endless diversity. That’s not a bad list of achievements for such tiny single cells!
+(Thanks to the Cambridge University Botanical Gardens for allowing us to use their library of photographs, Photographer:Howard Rice). 
+</body>
+<photo name="algae1" />
+<photo name="algae2" />
+</animalinfo>
+
+<animalinfo animal="vauxia">
+<title>Vauxia</title>
+<body>Vauxia is considered to be quite advanced for this age; it had a branched body and its skeleton included strands of spongin that allowed it some flexibility as well (spongin is what the ‘natural sponges’ we use in the bath are made from). Vauxia grew to quite a size; some fossils that have been found also seem to show growth rings like a tree, so it may have been long-lived as well. The branches were not just there to increase its gut, but also grew into new individuals if broken off by animals or rough seas; rocks have been found that show lots of Vauxia living closely to one another, forming a sponge forest.
+(Thanks to the Zoology Muesum for allowing us to take photographs of their collection of fossils).
+</body>
+<photo name="vauxia1" />
+</animalinfo>
+
+
+<animalinfo animal="eiffelia">
+<title>Eiffelia</title>
+<body>This sponge was very different from Vauxia. It formed small dense mounds on the sea floor where the cells were supported by a complex weaving of bizarre six-rayed silica spikes. The types and interweaving of the spikes was advanced, producing a silica skeleton that fortunately fossilised well. Like other sponges, it too was a filter feeder, drawing water through the walls of the sponge and filtering out the tiny particles of food, algae and bacteria from the water.
+(Thanks to the Zoology Muesum for allowing us to take photographs of their collection of fossils).
+</body>
+<photo name="eiffelia1" />
+</animalinfo>
+
+
+<animalinfo animal="crinoid">
+<title>Crinoid</title>
+<body>Crinoids are still found today in deep waters. They have been given the nickname 'sea lilies'; with their delicate arms waving in the currents they look like strange underwater flowers. However, they are actually primitive animals, and related to starfish and sea urchins. It is possible to see the five-fold symmetry in their bodies and they also share with sea urchins a skeleton which is made from strong plates of solid, dense calcium carbonate, like an old-fashioned knight in armour. This skeleton means that crinoids make very good fossils!
+(Thanks to the Sedgwick Museum for allowing us to take photographs of their selection of fossils).
+</body>
+<photo name="piccrinoid1" />
+<photo name="piccrinoid2" />
+<sketch name="crinoidsketch" />
+</animalinfo>
+
+
+
+
+
+
+<animalinfo animal="amphibian">
+<title>Ichthyostega</title>
+<body>This ancient amphibian may have been one of the first creatures to venture onto land, and reached a huge size for the time - some individuals have been found over 1.5 metres long. The skeleton is a mix of land and water adaptations, with robust front legs that could easily support its weight, but delicate back legs. It also had a tail that appeared to still have a fin around the edge of it like a fish. The vertebrae in the spine are only loosely connected - very good for giving flexibility in water, but not so good for giving support when on land. Strangest of all, the ribs are very thick, and some of them even overlap each other; this may have helped it to breathe on land. 
+(Thanks to the Zoology Muesum for allowing us to take photographs of their collection of fossils).
+</body>
+<photo name="ichth1" />
+<photo name="ichth2" />
+</animalinfo>
+
+<animalinfo animal="acantho">
+<title>Acanthostega</title>
+<body>This early amphibian may not have made it to a permanent life on land, but it shows some features that give us clues about how this might have happened. Acanthostega had four legs that helped it to paddle along through the water, or drag itself through very shallow areas. Its belly was covered in bony scales for protection as it hauled itself over logs and rough gravel. It also had an ear that appears to be adapted for hearing on land rather than in water. But on the other hand, Acanthostega also still had internal gills, much like a fish – and a fish-like tail for swimming through water.
+(Thanks to the Sedgwick Museum for allowing us to take photographs of their selection of fossils and Jenny Clack of the Cambridge University Zoology Department for the image of the Acanthostega skull).
+</body>
+<photo name="acpic1" />
+<photo name="acpic2" />
+</animalinfo>
+
+
+<animalinfo animal="cooksonia">
+<title>Cooksonia</title>
+<body>This tiny little plant is a major turning point in our history of life - it is one of the world’s first well-adapted land plants. It already possesses a thick waxy cuticle to prevent dehydration, and stomata to allow gasses in and out of its photosynthetic stem. This stem branches as it grows, and carries sporangia at the tip of each of those branches ready to release spores and colonise more land. It even has primitive vascular tissue to transport water to every part of its body, and these vessels help to support the growing plant by having spiralled ridges of thicker material running down their length.
+</body>
+</animalinfo>
+
+
+<animalinfo animal="horsetail">
+<title>Horsetails</title>
+<body>Horsetails are very old and very strange plants; there has never been anything quite like them. During the Devonian, they reached massive sizes and were very common. Considering that they are one of the earliest land plants, they were already quite well adapted to a life on land. They had begun to develop complex vascular tissue systems as well as drought-adapted stems and leaves, but they still relied on water for their reproduction and so were limited to damper places.
+(Thanks to the Cambridge University Botanical Gardens for allowing us to use their library of photographs, Photographer:Howard Rice. Thanks to the Sedgwick Museum for allowing us to take photographs of their selection of fossils). 
+</body>
+<photo name="horse1" />
+<photo name="horse2" />
+</animalinfo>
+
+<animalinfo animal="clubmoss">
+<title>Club-moss</title>
+<body>Like the horsetails, these plants grew as giant trees in the damper Devonian age. At that time, being big was an advantage - you could tower over the other plants around you and gain as much sunlight as you wanted. Unlike the horsetails, they actually have 'true' leaves, stems and roots with a primitive but effective vascular system branching through the support tissues to feed all of the plant. They also began to explore more complex ways of reproducing that increased their genetic diversity and was part of their success. They are still found as simple, moss-like plants in damp places.
+(Thanks to the Sedgwick Museum for allowing us to take photographs of their selection of fossils).
+</body>
+<photo name="cmoss1" />
+<photo name="cmoss2" />
+</animalinfo>
+
+
+<animalinfo animal="spider">
+<title>Early Spider</title>
+<body>This creature lacks the web-making abilities of modern spiders, but is certainly an ancestor to the spiders we see today. It was already very well adapted to a life as a land predator, where it probably sat in hiding and jumped out at small amphibians, insects and reptiles that went past. It is not known whether it injected a paralysing toxin into its prey as modern spiders often do, but it certainly had long fangs to grip with. The hairy body had a head and a segmented abdomen with four pairs of legs. It also had good eyesight, with a variety of eyes on the top, front and sides of its head to give all-round vision. 
+(Thanks to the Sedgwick Museum for allowing us to take photographs of their selection of fossils).
+</body>
+<photo name="spider1" />
+<photo name="spider2" />
+</animalinfo>
+
+
+<animalinfo animal="rhynia">
+
+<title>Rhynia</title>
+<body>This plant is another early pioneer of life on land. It first appeared early in the Devonian age before other plants caught up with it, and reached the (then) giant size of nearly 30cm high! A strong, robust stem snaked over the ground, growing root hairs where it came into contact with the ground. These hairs were each formed from a single cell, and allowed the plant to take up water wherever it could. The ground-hugging stem had frequent branches springing up from it and surging upwards to the sunlight, forming large stands of Rhynia in one place and crowding out any competitors. 
+</body>
+</animalinfo>
+
+
+<animalinfo animal="liverwort">
+
+<title>Liverwort</title>
+<body>This strange plant looks like a moss that has been ironed; it has small green, flat leaves that look fleshy and curl at the edges. It never reached the huge size that other plants reached in the Devonian, but makes up for a life in the forest gloom by having overlapping rows of leaves on the stems to maximise the amount of sunlight it can catch. Liverworts lack true roots - they anchor themselves to the soil with underground stems (rhizomes) and root hairs on the underside of their stems. Liverworts are still with us and they haven’t changed much since this time; you might find them on stream banks and in bogs - even on top of the soil of a soggy plant pot in the house. 
+(Thanks to the Cambridge University Botanical Gardens for allowing us to use their library of photographs, Photographer:Howard Rice).
+</body>
+<photo name="liverwort1" />
+</animalinfo>
+
+
+
+
+
+<animalinfo animal="cycad">
+
+<title>Cycad</title>
+<body>We take a huge step forwards with the cycads; these were the first plants to have seeds and disperse them to form new plants, advanced compound leaves, starchy storage material and amazingly complex vascular systems. They dominated the land for millions of year and the dinosaurs grazed happily on them. They attract beetles and flies to them for pollination by producing scents and heat around their ‘seed cones’, and protect and nourish their fertilised seeds in these cones for a while before bats, rodents and birds disperse them. Some of them even seem to have special roots, packed with nitrogen-fixing bacteria to provide them with the extra food they need to grow in tropical soils.
+(Thanks to the Cambridge University Botanical Gardens for allowing us to use their library of photographs, Photographer:Howard Rice. Thanks to the Sedgwick Museum for allowing us to take photographs of their selection of fossils). 
+</body>
+<photo name="cycad1" />
+<photo name="cycad2" />
+</animalinfo>
+
+<animalinfo animal="dragonfly">
+
+<title>Dragonfly</title>
+<body>This dragonfly (Meganeura) is one of the largest insects ever to fly; it had a wingspan of over 50cms! Its wings were heavily veined with many cross braces to strengthen them – not at all like the delicate wings of dragonflies today. The large eyes helped them to be excellent predators on anything else that dared to take to the air, and the spines on their legs helped them to keep hold of anything they caught. The sharp chewing mouthparts would make a quick meal of any smaller dragonflies, cockroaches or flies that didn’t manage to escape. 
+(Thanks to the Zoology Muesum for allowing us to take photographs of their collection of fossils).
+</body>
+<photo name="dragon1" />
+</animalinfo>
+
+<animalinfo animal="roaches">
+
+<title>Cockroach</title>
+<body>The largest cockroaches today rarely get bigger than 15cm, but Dictyomylacris was a monster at nearly 40 cm long. Cockroaches are some of the most ancient insects, and have existed unchanged for millions of years because they are so good at making themselves at home. Their chewing mouthparts allow them to eat almost anything they find from fungi, rotting meat and fruit to damp wallpaper and flowers. They lay their eggs in a special sac that the female carries with her; this keeps the eggs safe and prevents them from drying out. Their good eyesight allows them to be nocturnal and so they avoid many of the predators that might otherwise eat them. 
+(Thanks to the Zoology Muesum for allowing us to take photographs of their collection of fossils).
+</body>
+<photo name="roach1" />
+</animalinfo>
+
+<animalinfo animal="reptile">
+
+<title>Snake</title>
+<body>The forests of the Carboniferous became a dangerous place as the first snakes evolved. Like modern snakes, they had long thin muscular bodies with many ribs running down their length, and jaws that were lined with many needle-sharp teeth to catch their prey. Their skulls indicate that they already had a good sense of smell and vision, although we cannot tell how they killed their food - did they use venom like modern vipers, or did they slowly suffocate animals like the constrictors of today? 
+</body>
+</animalinfo>
+
+<animalinfo animal="fern">
+
+<title>Ferns</title>
+<body>The Carboniferous is often called the Age of Ferns as there were just so many of them. They appeared in great diversity - some of them even seem to have developed seeds, independently of the later 'flowering plants'. They had many other advanced features, such as an excellent vascular system and compound leaves to maximise the sunlight they could catch. As well as this, they began to carry their sporangia on each of their leaves, grouped together in patches on the underside instead of having to grow specialised structures - a big energy saving, and a possible clue to the evolution of flowers.
+(Thanks to the Cambridge University Botanical Gardens for allowing us to use their library of photographs, Photographer:Howard Rice. Thanks to the Sedgwick Museum for allowing us to take photographs of their selection of fossils). 
+</body>
+<photo name="fern1" />
+<photo name="fern2" />
+</animalinfo>
+
+
+
+<animalinfo animal="treefern">
+
+
+<title>Tree Ferns</title>
+<body>Superficially, tree ferns look very much like cycads with their rough trunk and crown of fronds. They grew to enormous size in the Cretaceous, and can still be found – a bit smaller now - in tropical rainforests (and garden centres!) today. Although they reached large sizes, they have no woody tissue in their stems and so are not real trees; in fact, they are more like big ferns. The trunk of the ‘tree’ is actually a giant rhizome, covered and supported by the weathered remains of old roots. New tree ferns erupt at the ends of their widely spreading underground rhizomes, helping them to colonise an area quickly. They also shed spores from fern-like structures underneath their leaves.
+(Thanks to the Cambridge University Botanical Gardens for allowing us to use their library of photographs, Photographer:Howard Rice).
+</body>
+<photo name="treefern1" />
+</animalinfo>
+
+
+<animalinfo animal="stenoneura">
+
+<title>Stenoneura</title>
+<body>This was an early insect with a generalised body plan of four wings, six legs and three major body segments - head, thorax and abdomen. This simple body plan was the starting point for many other insects to adapt, evolve and create the many varied - even bizarre - body plans we see today among the insect world.
+</body>
+</animalinfo>
+
+
+
+
+
+<animalinfo animal="allosaurus">
+
+<title>Allosaurus</title>
+<body>This dinosaur is a close relative of one of the most famous of them all - Tyrannosaurus rex - and like him, it was a large two-legged carnivorous beast. Allosaurus had a massive body which was heavily muscled, and the two front legs were equipped with sharp 15cm long talons for ripping flesh. The big serrated teeth were held in a skull that was over a metre long, but strangely delicate. It is possible that the skull had 'hinges' in the jaws - like those of modern snakes - that would have allowed Allosaurus to swallow larger chunks of prey than other dinosaurs.  
+(Thanks to the Sedgwick Museum for allowing us to take photographs of their selection of fossils).
+</body>
+<photo name="allo1" />
+</animalinfo>
+
+<animalinfo animal="pterosaur">
+
+<title>Rhamphorhynchus</title>
+<body>Rhamphorhynchus is one member of that well-known group of flying reptiles - the Pterosaurs - that were distantly related to dinosaurs. In many respects they are very similar to the modern birds; for example, they have hollow bones, small bodies and wings made of membrane to help keep their weight down and get airborne more easily. Rhamphorhynchus was one of the earliest species of pterosaur, and is easily recognised as such because of its long tail - later pterosaurs had a reduced tail and the wing membrane stretched along the sides of it to increase the wing surface area. This pterosaur also had teeth adapted for catching fish, and may have been the prehistoric equivalent of a seagull!
+(Thanks to the Sedgwick Museum for allowing us to take photographs of their selection of fossils).
+</body>
+<photo name="ptero1" />
+<photo name="ptero2" />
+</animalinfo>
+
+<animalinfo animal="conifer">
+
+<title>Conifer</title>
+<body>These plants can be called true trees; they have a ring of woody tissue inside their trunks which provides them with enough support to grow to impressive sizes. They also have a very advanced and efficient vascular/transport system, which means they are able to have many branches covered in leaves rather than simply having leaves at the top of their trunk like a cycad. Even today, they show adaptations to the colder, drier climate they evolved for during the Jurassic; they are evergreen, their leaves are reduced to needles to prevent water loss, and their energy-saving reproduction takes three years to produce seeds for dispersal. Their spores and seeds grow in woody cones and are fed and protected by the parent plant until their release.
+(Thanks to the Sedgwick Museum for allowing us to take photographs of their selection of fossils and thanks to the Cambridge University Botanical Gardens for allowing us to use their library of photographs. Photographer:Howard Rice).
+</body>
+<photo name="conifer1" />
+<photo name="conifer2" />
+</animalinfo>
+
+
+<animalinfo animal="scut">
+
+<title>Scutellosaurus</title>
+<body>Not all dinosaurs were giants - especially at the beginning of the Jurassic. This tiny lizard-like dinosaur probably crept around those ancient forests, eating plants and trying not to be eaten in turn. It had two ways of avoiding becoming food - it could run away fast on its hind legs, or it could rely on its light armour to protect it. The back and sides of Scutellosaurus were covered in bony plates embedded in the skin (scutes - hence the name), and its tail was longer than other related dinosaurs, probably to balance the weight of the armour. It could walk on all four legs or stand up to use its hands to grasp branches, pulling them down to eat.
+</body>
+</animalinfo>
+
+
+
+
+<animalinfo animal="hummingbird">
+
+<title>Hummingbirds</title>
+<body>These tiny brightly-coloured birds are a good example of the co-evolution of plants with the animals that pollinate them. Hummingbirds feed almost exclusively on the nectar of certain flowers that have evolved long trumpets, preventing insects from reaching their nectar. Hummingbirds have evolved major adaptations to overcome this specific challenge - for example, their wings beat so fast they cannot be seen and this means they can even fly backwards and upside down to reach the most inaccessible of flowers.  Their long beaks and tongues easily reach the nectar as they hover in front of the flowers, and the plant uses this time to dust the hummingbird with pollen to carry to the next flower.
+</body>
+<photo name="hbird1" />
+</animalinfo>
+
+<animalinfo animal="rafflesia">
+
+<title>Rafflesia</title>
+<body>This odd plant holds the record for producing the largest flowers in the world. The simple fleshy flowers often reach over a metre wide, and can take nearly ten months to develop from a bud the size of a large cabbage. But the flower is the only part of Rafflesia you are ever likely to see; the plant itself is a parasite of the vines that grow deep in the rainforests of Malaysia, and is nothing more than a network of threads invading the flesh of a vine. It is known locally as the 'corpse-flower' because of the awful smell it produces to attract the beetles and flies that pollinate it. 
+</body>
+<photo name="rafflesia1" />
+</animalinfo>
+
+
+<animalinfo animal="moth">
+
+<title>Moths</title>
+<body>It isn’t just butterflies that are important pollinators in the forest; many of the plants have flowers that open at night so that they can be pollinated by moths! These nocturnal flowers are generally heavily scented to attract the attention of passing moths; they are also generally pale yellow or even white. These flowers tend to glow slightly in moon and starlight, making sure that the moths can see them well enough to visit as many as possible - and so spread the plant's pollen far and wide.
+</body>
+<photo name="moth1" />
+</animalinfo>
+
+<animalinfo animal="tarsier">
+
+<title>Tarsier</title>
+<body>This tiny primate can turn its head round through 180 degrees like an owl, and scampers through the trees at night looking for insects to munch. Being nocturnal helps it to avoid the many predators that would see it as a tasty snack. The large ears constantly sweep the area for noises that might mean food and it can quickly leap through the branches to catch even the smallest of insects. Their tiny bodies – about six inches long – have thick grey fur and long back legs for jumping, and a long naked tail with a tuft of hair on the end helps them to balance. The delicate fingers have suction cups on their tips to maintain a good grip on branches.
+</body>
+<photo name="tarsier1" />
+</animalinfo>
+
+
+
+
+

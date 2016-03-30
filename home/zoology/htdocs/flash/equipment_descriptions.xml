@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "equipment_document.dtd">
+
+<document>
+
+
+<equipmentinfo equipment="pcr" >
+<title>PCR Machine</title>
+<body>PCR stands for 'polymerase chain reaction' and is a technique that revolutionised modern molecular biology. It is a simple mechanism whereby copies of DNA can be rapidly generated to obtain pure samples of specific DNA sequences. PCR uses enzymes and small 'primer' strings of about 18 DNA bases to amplify any selected fragment of DNA up to 6000 DNA bases in length, which is above the average size of a standard gene. The PCR machine simply but rapidly heats and cools a block containing the sample DNA to be amplified, over many cycles.
+Click on the animation to see how to amplify specific pieces of DNA using PCR
+</body>
+<photo name="pcrpic" />
+<screenshot name="pcrscreenshot" />
+</equipmentinfo>
+
+
+
+<equipmentinfo equipment="geltank" >
+<title>Gel electrophoresis</title>
+<body>When DNA fragments have been produced by cutting up larger pieces with restriction enzymes (see heat block), or by PCR, they can be separated and isolated for further analysis by gel electrophoresis. This method uses a jelly like matrix and an electrical current to separate DNA fragments according to their size. DNA is negatively charged as it is an organic acid and will be attracted towards the positive pole or anode of an electric field. The gel matrix acts as a molecular sieve, allowing smaller fragments of DNA to pass more rapidly through the gel within an electric field than larger DNA fragments, which are held back within the matrix.
+Click on the screenshot to see how DNA fragments can be separated according to their size by gel electrophoresis.
+ </body>
+<photo name="geltankpic" />
+<screenshot name="gelscreenshot" />
+</equipmentinfo>
+
+
+<equipmentinfo equipment="heatblock" >
+<title>Heat block</title>
+
+<body>Researchers understand what different pieces of DNA do by being able to manipulate them. One of the most powerful tools we have is to use special enzymes called 'restriction endonucleases' in order to cut DNA at precise locations. Purified DNA is incubated in a heat block at 37 degrees centigrade with a particular enzyme that recognises a short and unique sequence of DNA bases and cleaves the DNA at this location. Cut fragments of DNA are isolated using gel electrophoresis and joined or ligated onto another piece of DNA as required. This technique is important if we are to understand the functions of any gene, to find active and redundant elements.
+Click on the screenshot to see how restriction enzymes work.
+</body>
+<photo name="heatblockpic" />
+<screenshot name="heatscreenshot" />
+</equipmentinfo>
+
+
+
+<equipmentinfo equipment="tubes" >
+<title>Micro tubes</title>
+
+<body>Modern molecular biology labs work with a range of amounts of materials and solutions but most of the fine manipulation of DNA samples is done on a micro level, requiring very small volumes. Clear plastic micro tubes are essential to the laboratory for any work trying to understand the function of DNA.
+One of the first steps researchers take in understanding how genes work is to extract DNA from cells. Bacteria are used to grow-up or sub-clone pieces of DNA from other species, which is then extracted from the bacteria. For small preparations of DNA, micro tubes are used along with a small centrifuge to pellet the bacteria and then break open the cells, releasing the DNA into solution. The DNA is cleaned in the tubes and then precipitated, pelleted and re-suspended for further analysis. If you would like to try and extract some DNA yourself, visit the information section of this site. Otherwise, take a look at the animation to see how DNA can be extracted from cells.
+</body>
+<photo name="tubespic" />
+<screenshot name="tubescreenshot" />
+</equipmentinfo>
+
+
+
+<equipmentinfo equipment="shaking" >
+<title>Shaking incubator</title>
+
+<body>A shaking incubator is required to grow cultures of bacteria, usually strains of E.Coli, which have had DNA fragments the researcher is interested in incorporated into them in the form of 'plasmids'. A plasmid is a circular piece of DNA, which is capable of replicating itself within a host bacterium. When the bacteria divide using binary fission to produce identical or cloned daughter cells, not only is their own DNA reproduced exactly, but also the introduced plasmid DNA, which contains the fragment of DNA of interest to the researcher is cloned. Bacteria divide every 22 minutes when in a shaking culture at 37 degrees centigrade. In 11 hours, 30 generations of bacteria are produced giving rise to more than a billion individual cells, each containing an identical copy of the introduced DNA plasmid.
+The shaking incubator provides an ideal environment within which to grow bacteria. Shaking provides aeration and the cells are kept in suspension within a nutrient rich media that feeds them. A constant temperature, mimicking a mammalian body allows the cells to grow and divide at a maximum rate.
+
+Watch the animation to see how fragments of DNA can be sub-cloned in bacteria.
+</body>
+<photo name="shakingpic" />
+<screenshot name="shakingscreenshot" />
+</equipmentinfo>
+
+
+<equipmentinfo equipment="microscope" >
+<title>Dissecting microscope</title>
+
+<body>Model organisms such as flies and frog embryos are often used in order to understand how a particular gene functions. Most genes are shared across all animal species to such an extent that often over 80% of the DNA bases are the same within the coding region of the gene.  Researchers can study where a gene is active and how it functions by adding more of the gene in or taking it out of cells within model organisms. This is particularly important when we try and understand how any animal develops, how a complex body pattern with working organs can be formed from a single fertilised cell. If we begin to understand these molecular mechanisms then we will begin to understand how things can go wrong at the genetic level, causing disease and disability.
+Take a look down the microscope and see how a frog embryo develops.
+</body>
+<photo name="microscopepic" />
+<screenshot name="microscopescreenshot" />
+</equipmentinfo>
+
+<equipmentinfo equipment="centrifuge" >
+<title>Microfuge (small centrifuge)</title>
+<body>A small centrifuge or microfuge is used on bench tops to spin samples in micro tubes at speed up to 14,000RPM. This equipment is essential for the purification and isolation of DNA samples. DNA is precipitated in ethanol and collected under centrifugation as a pellet at the bottom of the tube. The ethanol is then removed, the DNA dried and re-hydrated in water.
+</body>
+<photo name="centrifugepic"/>
+<screenshot name="centrifugescreenshot" />
+</equipmentinfo>
+</document>
+

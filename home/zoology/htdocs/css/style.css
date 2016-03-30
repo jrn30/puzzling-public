@@ -1,0 +1,74 @@
+body {
+	margin: 0;
+	background-color: #38575C;
+}
+
+p,td,li,div,h1,h2,h3,h4 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	line-height: 1.5;
+	color: #DDEEFF;
+}
+
+a, a:visited {
+	color: #99DDFF;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1,h2,h3,h4 {
+	color: #FFFFFF;
+	line-height: normal;
+	font-weight: normal;
+}
+
+h1 {	font-size: 200%; }
+h2 {	font-size: 150%; }
+h3 {	font-size: 130%; }
+h4 {    font-size: 110%; }
+
+b { color: white; }
+
+.text, textarea, select {
+	color: #FFFFFF;
+	background-color: #336666;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border: 1px dashed #DDEEFF;
+	width: 250px;
+}
+
+.button {
+	background-color: #669999;
+	color: black;
+	border: 2px solid #224444;
+	height: 27px;
+}
+
+.contentBody {
+	padding: 0% 5%;
+}
+
+.smallbold {
+	font-size: 75%;
+	color: white;
+	font-weight: bold;
+}
+
+.small {
+	font-size: 75%;
+}
+
+.smaller {
+	font-size: 60%;
+}
+
+.highlighted {
+	background-color: #669999
+}
+
+ul.dinohand {
+	list-style: url(../images/layout/bulletdinohand.gif) disc;
+}

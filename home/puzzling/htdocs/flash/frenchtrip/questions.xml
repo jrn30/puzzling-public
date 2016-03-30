@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<questions>
+	<ques name="ques1" question="Quelle heure est-il?" solution="il est midi et demie."></ques>
+	<ques name="ques2" question="Qu'est-ce que tu veux boire?" solution ="Un verre de limonade."></ques>
+	<ques name="ques3" question="Ca coûte combien?" solution="200 euros."></ques>
+	<ques name="ques4" question="Ça va?" solution="Oui, très bien merci."></ques>
+	<ques name="ques5" question="Le siège est libre?" solution="Non, il est occupé."></ques>
+	<ques name="ques6" question="C'est jaune?" solution="Oui, comme un poussin."></ques>
+	<ques name="ques7" question="Où habites-tu?" solution="A Nice."></ques>
+	<ques name="ques8" question="Quel âge as-tu?" solution="J'ai dix huit ans."></ques>
+	<ques name="ques9" question="Quel est ton métier?" solution="Je suis encadreur."></ques>
+	<ques name="ques10" question="C'est déjà ouvert?" solution="Non, il est trop tôt."></ques>
+	<ques name="ques11" question="Es-tu fils unique?" solution="Non, j'ai deux soeurs."></ques>
+	<ques name="ques12" question="Tu veux une couverture?" solution="Oui, j'ai froid."></ques>
+	<ques name="ques13" question="Tu t'es brossé les dents?" solution="Oui mes dents sont propres."></ques>
+	<ques name="ques14" question="Elle va mieux?" solution="Oui, elle est guérie."></ques>
+	<ques name="ques15" question="Il va mieux?" solution="Oui il est guéri."></ques>
+	<ques name="ques16" question="Tu sais conduire?" solution="Oui, j'ai le permis."></ques>
+	<ques name="ques17" question="Est-ce qu'il fait beau?" solution="Oui, il fait soleil."></ques>
+	<ques name="ques18" question="Tu veux dormir?" solution="Oui, je suis fatigué."></ques>
+	<ques name="ques19" question="Est-ce qu'il est grand?" solution="Oui, c'est un géant."></ques>
+	<ques name="ques20" question="Il m'entend?" solution="Non, il est sourd."></ques>
+</questions>

@@ -1,0 +1,155 @@
+<question text="Is it an animal?">
+
+	<question text="Is it a vertebrate?">
+
+		<question text="Is it warm blooded?">
+
+			<question text="Is it a mammal?">
+
+				<question text="Does it live in water?">
+
+					<question text="Does it lay eggs?">
+
+						<answer value="Platypus" />
+						<answer value="Seal" />
+
+					</question>
+
+					<answer />
+
+				</question>
+
+				<question text="Is it a bird?">
+
+					<question text="Is it a carnivore?">
+
+						<answer value="Eagle" />
+
+						<question text="Does it have webbed feet?">
+
+							<answer value="duck" />
+							<answer />
+
+						</question>
+
+					</question>
+
+					<answer />
+
+				</question>
+
+			</question>
+
+			<question text="Does it lay eggs in water?">
+
+				<question text="Can it breathe through its skin?">
+
+					<answer value="Frog" />
+					<answer />
+
+				</question>
+
+				<question text="Is it a reptile?">
+
+					<question text="Does it have legs?">
+
+						<answer value="Iguana" />
+						<answer value="Snake" />
+
+					</question>
+
+					<answer />
+
+				</question>
+
+			</question>
+
+		</question>
+
+		<question text="Does it have a hard-jointed exoskeleteon?">
+
+			<question text="Does it have wings?">
+
+				<answer />
+
+				<question text="Does it have 8 legs?">
+
+					<answer value="Spider" />
+					<answer />
+
+				</question>
+
+			</question>
+
+			<question text="Is it bilaterally symmetrical?">
+
+				<question text="Does it have a round segmented body?">
+
+					<answer value="Earthworm" />
+					<answer />
+
+				</question>
+
+				<question text="Is it radially symmetrical?">
+
+					<question text="Does it have a hard exoskeleton?">
+
+						<answer value="Starfish" />
+
+						<question text="Does it have tentacles?">
+
+							<answer value="Jellyfish" />
+							<answer />
+
+						</question>
+
+					</question>
+
+					<answer />
+
+				</question>
+
+			</question>
+
+		</question>
+
+	</question>
+
+	<question text="Does it have a vascular system?">
+
+		<question text="Does it have seeds?">
+
+			<question text="Does it have flowers?">
+
+				<answer value="Flower" />
+				<answer value="Conifer" />
+
+			</question>
+
+			<answer />
+
+		</question>
+
+		<question text="Does it have seeds?">
+
+			<answer />
+			<question text="Does it live in water?">
+
+				<answer value="Algae" />
+				<answer value="Moss" />
+
+			</question>
+
+		</question>
+
+	</question>
+
+</question>
+
+<!--
+
+<question text=""></question>
+
+<answer value="" />
+
+		-->

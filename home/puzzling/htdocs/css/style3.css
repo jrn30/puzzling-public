@@ -1,0 +1,97 @@
+body,div,p,li,h1,h2,h3,h4,h5,h6,input,textarea,select  {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body,div,p,li,h1,h2,h3,h4,h5,h6 {
+	color: #000000;
+}
+
+body {
+  background: #FFE4CA url(../images/design3/background.gif) no-repeat 0px 110px;
+}
+
+a, a:visited {
+	color: #0166CC;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1 { font-size: 140%; }
+h2 { font-size: 120%; }
+h3 { font-size: 110%; }
+
+h2,h3 {
+	font-weight: normal;
+}
+
+div#topimages {
+	height: 80px;
+}
+
+div#menubar {
+	background-color: #CC0099;
+	width: 750px;
+}
+
+div#submenubar {
+	background-color: #FD9ACB;
+	width: 750px;
+}
+
+div#menubar li, div#submenubar li {
+	padding: 0.3em 1em;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+div#menubar a, div#copyright a, div#changestyle a {
+  color: #fd9acb
+}
+div#submenubar a {
+  color: #cc0099
+}
+div#content {
+  padding: 0.5em;
+  background: #FFFFFF;
+  color: #000000;
+  margin-left: 150px;
+  width: 400px;
+  clear: both;
+}
+
+div#science, div#arts, div#random {
+  padding: 0.5em;
+  margin-top: 0.75em;
+}
+
+div#bottomimages {
+  width: 750px;
+  background-color: #CC0099; /*#6600CC;*/
+}
+
+img.gameicon {
+  border: 1px #CC0099 solid;
+  margin: -1px 0px 0px -1px;
+}
+
+img.intrologo {
+  border: 1px #CC0099 solid;
+  margin: 1px;
+}
+
+div#intrologos {
+	width: 325px;
+
+}
+
+div.gamedesc {
+	background-color: #FFFFFF;
+	font-size: 120%;
+}
+
+ul {
+  list-style: url(../images/design3/standardbullet.gif) disc;
+}

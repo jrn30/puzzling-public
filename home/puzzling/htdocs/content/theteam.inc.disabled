@@ -1,0 +1,44 @@
+<h1>Who's Who</h1>
+<table width="100%" border="0">
+  <tr>
+    <td width="20%" colspan="5"><div align="center"><img src="photos/kathrynsil.gif" width="70" height="72" align="middle" alt="Kathryn Lawrence" /><br />
+        <a href="person.php?id=1" onclick="openPerson(this.href); return false;">Kathryn Lawrence</a></div>
+    </td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><div align="center"><img src="photos/josil.gif" width="70" height="72" align="middle" alt="Jo Mordue" /><br />
+        <a href="person.php?id=2" onclick="openPerson(this.href); return false;">Jo Mordue</a></div>
+    </td>
+    <td>&nbsp;</td>
+    <td><div align="center"><img src="photos/chrissil.gif" width="70" height="72" align="middle" alt="Chris Applegate" /><br />
+        <a href="person.php?id=3" onclick="openPerson(this.href); return false;">Chris Applegate</a></div>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><div align="left"><img src="photos/johnsil.gif" width="70" height="72" align="middle" alt="John Uff" /><br />
+        <a href="person.php?id=4" onclick="openPerson(this.href); return false;">John Uff</a></div>
+    </td>
+    <td>&nbsp;</td>
+    <td>
+      <div align="center"><img src="photos/marysil.gif" width="70" height="72" align="middle" alt="Mary Ulicsak" /><br />
+          <a href="person.php?id=5" onclick="openPerson(this.href); return false;">Mary Ulicsak</a></div>
+    </td>
+    <td>&nbsp;</td>
+    <td><div align="center"><img src="photos/sushantsil.gif" width="70" height="72" align="middle" alt="Sushant Sund" /><br />
+        <a href="person.php?id=6" onclick="openPerson(this.href); return false;">Sushant Sund</a></div>
+    </td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><div align="center"><img src="photos/marksil.gif" width="70" height="72" align="middle" alt="Mark Stickley" /><br />
+        <a href="person.php?id=7" onclick="openPerson(this.href); return false;">Mark Stickley</a></div>
+    </td>
+    <td>&nbsp;</td>
+    <td><div align="center"><img src="photos/alexsil.gif" width="70" height="72" align="middle" alt="Alex Donzel" /><br />
+        <a href="person.php?id=8" onclick="openPerson(this.href); return false;">Alex Donzel</a></div>
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+</table>

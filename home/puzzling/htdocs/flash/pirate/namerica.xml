@@ -1,0 +1,50 @@
+<NorthAmerica>
+	<sea name="Beaufort Sea">
+		<fact>The Beaufort Sea is named after the admiral, Sir Francis Beaufort. The admiral is famous for having established the Beaufort Scale of wind velocity (1806). The scale ranges from 0 (calm) to 12 (hurricane).</fact>
+		<hint>A sea located in North Canada</hint>
+	</sea>
+	<sea name="Chukchi Sea">
+		<fact>The Americans call it "Chukchee" and the Russians call it "Chukotskoye More". It is populated throughout the entire year by several species of seals and walrus (type of large seal with two tusks). Many whales and seabirds also visit this sea in summer.</fact>
+		<hint>a sea that shares American and Asian coasts</hint>
+	</sea>
+	<sea name="Arctic Ocean">
+		<fact>The word "arctic" is derived from the Greek name for the constellation of the Bear, Arctos, and means "near Arctos - in the extreme north".</fact>
+		<hint>the smallest Ocean in the World</hint>
+	</sea>
+	<sea name="Baffin Bay">
+		<fact>The first European man to explore this bay was Captain Robert Bylot (English) in May 1616, but his name was not given to the bay, the honour going instead to his lieutenant, William Baffin. Both men were, unsuccessfully, looking for a passage to India.</fact>
+		<hint>a bay sited between Canada and Greenland</hint>
+	</sea>
+	<sea name="Labrador Sea">
+		<fact>The origin of the term Labrador is not clear. A small number of early Portuguese explorers called Greenland "Land of Labrador". Later, cartographers transferred the name "Labrador" to the North East part of Canada (on the other side of the sea) which is now called "New Foundland".</fact>
+		<hint>a sea located on the East side of Canada</hint>
+	</sea>
+	<sea name="Gulf of St Lawrence">
+		<fact>The Gulf of St Lawrence is the mouth of the St Lawrence River (said to be one of the nicest rivers in the world), discovered by Jacques Cartier (French) in 1534. Blue and white whales can be seen when sailing along the St Lawrence River.</fact>
+		<hint>a Canadian gulf famous for its whales</hint>
+	</sea>
+	<sea name="Gulf of Mexico">
+		<fact>The Gulf of Mexico ("golfo de Mexico" in Spanish) owes its name to its west shores which belong to Mexico.</fact>
+		<hint>a gulf located in the South East of North America</hint>
+	</sea>
+	<sea name="Caribbean Sea">
+		<fact>Christopher Columbus was the first European to discover the Caribbean Sea when he landed on the island of San Salvador in the eastern Bahamas in 1492. Columbus was convinced at that time that he had discovered a new route to Asia.</fact>
+		<hint>a North America Southern sea with multiple islands</hint>
+	</sea>
+	<sea name="Pacific Ocean">
+		<fact>Magellan (Portuguese explorer) was the first to traverse the Pacific Ocean in 1521. He named it Pacific probably because the weather was clear and the sea was calm during his crossing.</fact>
+		<hint>the biggest ocean in the world</hint>
+	</sea>
+	<sea name="Hudson Bay">
+		<fact>The bay is named after Henry Hudson who discovered it in 1610 when looking for a Northwest passage to Asia. Failing to suppress a mutiny in 1611 his crew set him adrift in the bay with his young son and seven faithful crew members. They were never seen again.</fact>
+		<hint>a Canadian Bay</hint>
+	</sea>
+	<sea name="Gulf of Alaska">
+		<fact>The Gulf of Alaska owes its name to the country it belongs to: Alaska. Captain James Cook (English discoverer) was the first European to enter the gulf in 1778.</fact>
+		<hint>an eastern gulf adjacent to Alaska</hint>
+	</sea>
+	<sea name="Atlantic Ocean">
+		<fact>The name comes from the Greek "Atlantikos Pelagos" from the Isle of Atlantes (the submerged continent). Atlantis was a source of inspiration for Greek poets.</fact>
+		<hint>the second biggest ocean in the world</hint>
+	</sea>
+</NorthAmerica>

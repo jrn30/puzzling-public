@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "lesson.dtd">
+<lesson>
+<page graphic="example0">The giant gliding squirrel of Borneo uses a membrane that stretches between its limbs to provide a large surface area and hence high air resistance that will provide lift</page>
+<page graphic="example1">It then uses its tail as a rudder to change direction (left to right and up and down)</page>
+<page graphic="example1">The tension of the skin membrane allows the animal to increase or decrease its speed of flight</page>
+<page graphic="example2">In this game you design a flying squirrel and then fly it from tree to tree</page>
+<page graphic="example3">To design it you must choose the size of the body, wingspan and tail</page>
+<page graphic="example3">The larger the wingspan the slower the squirrel will fall. Likewise the lighter the body, the slower it will fall</page>
+<page graphic="example3">The bigger the tail the easier the squirrel can turn, but also with a bigger tail the squirrel gets heavier</page>
+<page graphic="example4">When you have finished setting up the squirrel press "Let's Go" to start the flight</page>
+<page graphic="example5">Use the left and right keys to move left and right with your tail. Use the up and down keys to tighten and losen the gliding membrane</page>
+</lesson>

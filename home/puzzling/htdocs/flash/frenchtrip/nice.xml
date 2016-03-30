@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<nice name="Nice">
+	<easy>
+		<question quest="De quand date la construction de Nice?">
+			<goodanswer> De 300 avant Jésus Christ</goodanswer>
+			<wronganswer1> De 600 avant Jésus Christ</wronganswer1>
+			<wronganswer2>De 3000 avant Jésus Christ</wronganswer2>
+		</question>
+		<question quest="Quel est le nom exact de la Promenade de Nice?">
+			<goodanswer>La Promenade des Anglais</goodanswer>
+			<wronganswer>La Promenade des Français</wronganswer>
+			<wronganswer>La Promenade des Italiens</wronganswer>
+		</question>
+		<question quest="Quelle est la frontière située à 32 kilomètres de Nice?">
+			<goodanswer>La frontière italienne</goodanswer>
+			<wronganswer1>La frontière espagnole</wronganswer1>
+			<wronganswer2>La frontière grecque</wronganswer2>
+		</question>
+	</easy>
+	<medium>
+		<question quest="Que signifie NIKE en grec?">
+			<goodanswer>Victoire</goodanswer>
+			<wronganswer>Défaite</wronganswer>
+			<wronganswer>Egalité</wronganswer>
+		</question>
+		<question quest="De quand date la Promenade des Anglais?">
+			<goodanswer> De 1822</goodanswer>
+			<wronganswer>De 1922</wronganswer>
+			<wronganswer>De 1892</wronganswer>
+		</question>
+		<question quest="Nice se situe dans...">
+			<goodanswer>"la Baie des Anges"</goodanswer>
+			<wronganswer>"la Baie des Cochons"</wronganswer>
+			<wronganswer>"la Baie du Bengal"</wronganswer>
+		</question>
+	</medium>
+	<hard>
+		<question quest="La Promenade des Anglais mesure...">
+			<goodanswer>Quatre kilomètres</goodanswer>
+			<wronganswer>Quarante kilomètres</wronganswer>
+			<wronganswer>Quatorze kilomètres</wronganswer>
+		</question>
+		<question quest="La Promenades des Anglais est bordée de...">
+			<goodanswer>fleurs et de palmiers</goodanswer>
+			<wronganswer1>fleurs et de graviers</wronganswer1>
+			<wronganswer2>fleurs et d'orangers</wronganswer2>
+		</question>
+		<question quest="Les fondateurs de Nice s'appellaient... ">
+			<goodanswer>Les Massaliotes</goodanswer>
+			<wronganswer>Les Niceliotes</wronganswer>
+			<wronganswer>Les Marseillotes</wronganswer>
+		</question>
+	</hard>
+</nice>

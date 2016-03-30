@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "lesson.dtd">
+<lesson>
+<page graphic="example0">How far can you slide the books in the pile without any of them falling off? In this game you have to balance the books so that the top book is over the red target line.</page>
+<page graphic="example1">Slide the books across with the mouse, then click 'Check Balance' to see if the pile is still balanced.</page>
+<page graphic="example2">You can balance a book on one finger, if you put it below the middle of the book. This point is called the centre of mass. As long as the centre of mass is above the book below, it will not fall off.</page>
+<page graphic="example3" frame="1">The game will show you where the centre of mass of each book is, if you click on the box in the corner. The red line shows the centre of mass of the red book.</page>
+<page graphic="example3" frame="5">The purple line shows the centre of mass of the purple book and the red book together. As you slide the red book across, the purple line also moves.</page>
+<page graphic="example5">There are four levels. They get harder as the pile of books gets higher! Try the game with and without seeing the centres of mass.
+
+Click 'Start Game' to start.</page>
+</lesson>

@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "animal_document.dtd">
+
+<document>
+
+
+<animalinfo animal="toad" layers="ground">
+<title>Horned toad</title>
+<body>This strange-looking frog has been nicknamed the Pac Man frog because its mouth is so huge! It sits hidden at night in the leaf litter on the forest floor, camouflaged by its mottled skin and lumpy head, waiting for anything tasty to go past. When it senses food approaching, it suddenly shoots out a long tongue and drags the struggling prey into a huge cavernous mouth; it can swallow things nearly as big as itself! It specialises in eating other frogs – including smaller versions of itself – and also likes to wait by the side of small streams in the forest in case something edible wanders past. If the weather gets too dry, it secretes a papery covering and sleeps until water wakes it up again.</body>
+<photo name="toadpic" />
+<photo name="toadpic2" />
+</animalinfo>
+
+<animalinfo animal="tarantula" layers="ground,understorey,canopy">
+<title>Tarantula</title>
+<body>There are over 800 species of tarantula including some that have red knees or even a blue body! The largest tarantula is the Goliath tarantula (with a body over 5 inches long, and that is bigger than a dinner plate) which lives in the Amazon rainforest; this is caught and eaten by the natives, who think of it as a good snack. Although tarantulas can make silk, they do not make webs. Instead they live in burrows in the soil or crevices in the trees, wandering through the forest in search of prey they can leap on and subdue with their huge fangs and toxic bite. They are vitally important in keeping the insect population under control!
+</body>
+<photo name="tarantulapic" />
+<photo name="tarantulapic2" />
+
+</animalinfo>
+
+
+<animalinfo animal="soil">
+<title>Soil and litter</title>
+<body>Because of the constant climate in a rainforest, there is no particular season when leaves, seeds and fruit fall to the floor. This means that there is no deep covering of leaf litter as in our more temperate forests. The forest floor teems with invertebrates and small animals that rapidly break down anything they can find here, and they are helped by a huge range of fungi that quickly break down branches, trunks and the corpses of animals. Because of the rain, any nutrient they produce is quickly absorbed by the trees and other plants before it can be washed out of the soil by the rain; this is why the soil in rainforests is so thin and so nutrient-poor.
+</body>
+<photo name="soilpic" />
+</animalinfo>
+
+
+<animalinfo animal="roots">
+<title>Buttress roots</title>
+<body>The soil in most rainforests is thin and nutrient-poor. Heavy rainfall washes away soil that is not bound together by plant roots. So how do such huge trees manage to stay upright? Well, many of them support themselves by making their base as wide as possible, both by spreading their root system as wide as possible and by propping themselves up with aerial and buttress roots. These act like the buttress on a castle wall, keeping the tall trees stable in the thin soil.
+</body>
+<photo name="buttresspic" />
+<photo name="buttresspic2" />
+
+</animalinfo>
+
+<animalinfo animal="jaguar" layers="ground,understorey,canopy">
+<title>Jaguar</title>
+<body>This fierce hunter is a top predator in the rainforest – but you will hardly ever see one. Jaguars are excellent climbers, and often spend the day asleep draped over a branch, where their camouflaged spotted coat makes them almost invisible. At dusk they return to the forest floor and set off in search of prey ranging from tapirs and deer to monkeys, rats and reptiles. Their powerful jaws can even crush through the armour of an armadillo. They are a solitary animal, pairing up briefly to produce cubs which stay with their mother for a couple of years until they have learnt how to hunt for themselves.
+</body>
+<photo name="jaguarpic" />
+</animalinfo>
+
+<animalinfo animal="millipede" layers="ground">
+<title>Giant millipede</title>
+<body>This huge invertebrate can grow to almost a foot long and is a vital part of the forest’s clean-up crew, eating decaying leaves and detritus and turning it into nutrient the plants can easily absorb. Despite its name, it doesn’t have a thousand legs but does have two pairs of legs to every segment of its body – sometimes hundreds of them! It moves slowly across the forest floor like a miniature bulldozer and protects itself with its armoured exoskeleton and by secreting a nasty smelling chemical or rolling tightly into a ball.
+</body>
+<photo name="millipedepic" />
+</animalinfo>
+
+<animalinfo animal="ants" layers="ground,understorey,canopy,emergent">
+<title>Leaf-cutter ants</title>
+<body>These ants have a very complex society and their nests can hold hundreds of thousands of hard-working ants, including gardeners!. While the huge queen ant stays in her royal chamber deep within the nest, forager ants scout through the surrounding forest to find succulent leaves to harvest. Using their legs as a measuring device, they neatly cut a circle from a tasty leaf and carry it back to the nest. A gardener ant then takes the leaf, cleans it by licking it, and then chews it up. She takes it to a garden chamber where it is buried in ant dung and covered with a special strain of fungus; several weeks later, ants come to the chamber to graze on the fuzzy white fungus that grows on the chewed up leaves.
+</body>
+<photo name="antpic" />
+<photo name="antpic2" />
+</animalinfo>
+
+
+<animalinfo animal="strangler">
+<title>Strangler fig</title>
+<body>This is a type of climbing plant – but not quite as harmless as the others, as its name suggests. It begins life as an epiphyte seedling, high above the floor, and slowly sends down roots towards the floor and the soil. When the roots finally reach the soil, the plant explodes into action as it finally gets hold of as much water and nutrient as it wants; it begins to grow many more branches around the tree it began on, gradually smothering it and robbing it of water and nutrient by growing its roots around the trees roots. Eventually the poor tree dies and then quickly rots, leaving the hollow shell of the strangler fig behind. The fig is an important species in the forest, where it provides a good crop of fruit for many animals and birds.
+</body>
+<photo name="stranglerpic" />
+</animalinfo>
+
+
+<animalinfo animal="fungi" layers="ground">
+<title>Fungi</title>
+<body>It is possible that on a walk through the rainforest, one of the most important inhabitants will go completely unseen by anyone. And yet these organisms are some of the most vital and hard-working members of the rainforest community. There are many species of fungus in the forest - no one knows how many - and they are vital for breaking down leaves, fruits, branches and corpses in order to release their nutrients back into the environment. Most of this work goes on hidden from view as the fungus slowly grows through a rotting tree or under the leaf litter, but occasionally a fungus will develop fruit - essentially mushrooms - and release tiny dust-like spores into the forest. Without fungi, the rainforest could not grow.
+</body>
+<photo name="fungipic" />
+<photo name="fungipic2" />
+
+</animalinfo>
+
+
+<animalinfo animal="treefrog" layers="understorey,canopy">
+<title>Tree frog</title>
+<body>The forests are filled with thousands of species of butterflies, moths, beetles, ants and so on and the frogs have followed them up into the trees to take advantage of this feast. Some of the world’s smallest frogs live in the trees of the Amazon, spending their entire lives living in the pools of water at the centre of bromeliads, hatching tadpoles there and eating any insect they come across. They have tiny suckers at the tips of their fingers and toes to help them keep a grip on slippery branches, and excellent vision to allow them to jump through the tree-top jungle. Many are camouflaged and almost impossible to see, while others are brightly coloured.
+</body>
+<photo name="treefrogpic" />
+</animalinfo>
+
+<animalinfo animal="iguana" layers="understorey,canopy">
+<title>Iguana</title>
+<body>Although it looks like a fierce miniature dinosaur, this lizard is actually 100% vegetarian, living off leaves, flowers and a huge variety of fruit. They can live for more than 20 years and grow to huge sizes (about 5 feet long!), but their young are the favourite prey of jaguars, eagles and monkeys, so few reach that size. They are usually found high in the canopy, feasting on leaves, but rest in this layer where they can see what else is around. They lay eggs in the damp soil of the forest floor, and bask in sunshine to help them digest their food.
+</body>
+<photo name="iguanapic" />
+</animalinfo>
+
+<animalinfo animal="bromeliad" layers="understorey">
+<title>Bromeliad</title>
+<body>In the rainforest, light is in short supply and plants have evolved many ways of getting closer to it. Bromeliads are a type of epiphyte – the term used to describe a plant that lives on another plant – and they grow high above the forest floor on the wide, strong branches of the forest trees. Because their roots are not in soil, they have adapted to make use of every scrap of water they get and usually have leaves growing from a central point, surrounding a deep cavity that acts as a pool of stored water. Their leaves and roots are covered in thick wax to prevent water loss, and they reproduce both using tiny dust-like seeds and runners carrying complete baby bromeliads. Many animals live exclusively in bromeliads, a tiny micro-habitat high in the forest.
+</body>
+<photo name="bromeliadpic" />
+</animalinfo>
+
+<animalinfo animal="owlbutterfly" layers="understorey,canopy">
+<title>Owl butterfly</title>
+<body>This is one of the largest butterflies in the world and a favourite snack of monkeys, lemurs and many other animals. The underside of its wings have huge eyespots on them that the butterfly uses to scare off anything that might eat it, making it look like an owl in the dim light. The caterpillar grows to a huge size – over 15cm long – and has two horns on its head that it can inflate to scare predators. At dawn the males parade in some areas, chasing each other and trying to persuade females to land on a branch next to them. As the sun comes up, the butterflies go higher into the canopy to feast on nectar from the flowers they find.
+</body>
+<photo name="owlbutterflypic" />
+</animalinfo>
+
+<animalinfo animal="poisonarrow" layers="understorey,canopy">
+<title>Poison-arrow frog</title>
+<body>There are many species of poison arrow frog, and all of them are beautiful - and deadly! These frogs secrete toxic substances – some of the strongest so far discovered – through their skins as a protection against being eaten. They advertise the fact that they are poisonous with bright colours – red, green, blue and black – and predators soon learn to avoid them. The natives of the rainforest catch these frogs and extract the toxins from their skin to dip their arrows and blow-darts into; most of the toxins cause instant paralysis and are important in a successful hunt.
+</body>
+<photo name="poisonarrowpic" />
+</animalinfo>
+
+
+
+<animalinfo animal="toucan" layers="canopy">
+<title>Toucan</title>
+<body>From behind, these birds appear to be sombre with their black and white, or black and yellow feathers. But their beaks are huge and brightly coloured – not at all what you might expect. They eat mostly fruit, delicately manipulating it with their enormous beaks, throwing their heads back and gulping the fruit. They also eat baby birds, eggs, insects and frogs when they can catch them! The beak acts as a signal to other birds, and may help toucans recognise individuals in their groups. They are clumsy fliers and can most often be seen flapping and gliding, heading noisily back to their nesting holes in rotten trees.
+</body>
+<photo name="toucanpic" />
+</animalinfo>
+
+<animalinfo animal="squirrelmonkey" layers="understorey,canopy">
+<title>Squirrel monkey</title>
+<body>These small, agile monkeys roam the canopy in groups of upto a hundred individuals. They are constantly on the lookout for food, and will eat almost anything they come across from leaves, fruit and flowers to insects, frogs, eggs and carrion. Their long prehensile tails allow them to reach food that other monkeys cannot reach, making them important for seed distribution. The group has a well-organised social system, with the females caring for each others young, and the males usually acting as lookouts. Squirrel monkeys are often eaten by snakes, eagles, jaguars and other predators, and have developed a range of distinctive warning cries with a different signal for each type of danger – this allows the whole group to take appropriate action when danger approaches.
+</body>
+<photo name="squirrelmonkeypic" />
+</animalinfo>
+
+<animalinfo animal="cauliflory">
+<title>Cauliflory</title>
+<body>Because of the enclosed nature of the rainforest, wind pollination and seed dispersal are not very effective, and most trees and plants have evolved to use animals and insects to do these jobs instead. However, the canopy above this layer is dense with leaves, epiphytes and vines and so flowers or fruit would be hidden from the very animals that were looking for them. To get around this problem, some trees carry their flowers and fruit growing directly out of the trunk instead of carrying them on branches; this unusual-looking flowering is called cauliflory. It gives easy access to the flowers and fruit to insects, birds and animals that otherwise would either not be able to access – or see – them.
+</body>
+<photo name="cauliflorypic" />
+</animalinfo>
+
+
+<animalinfo animal="sloth" layers="understorey,canopy">
+<title>Sloth</title>
+<body>The sloth is one of the oddest, slowest and laziest mammals around. It is highly adapted for doing very little, with long claws that lock around branches to allow it hang with no effort at all. It also has the lowest percentage of muscle mass for its size of any animal in the forest. These adaptations allow it to live on a diet of leaves that need to be digested for weeks in its bacteria-filled guts before releasing energy. Sloths rarely leave the trees, coming down to the forest floor once a week or so to go to the loo and slowly walk to another tree. They are a mini-habitat in themselves, with algae growing on them throughout most of the year, and several species of moth and beetle evolved to eat, breed and live in sloth fur.
+</body>
+<photo name="slothpic" />
+</animalinfo>
+
+<animalinfo animal="snake" layers="canopy">
+<title>Emerald tree boa</title>
+<body>This beautiful bright green and white snake is perfectly adapted for a life in the trees hunting small mammals and reptiles. The bright red, yellow or lime green babies grow into 10 foot monsters, capable of eating a monkey whole. The snake uses infra red heat detection to see warm bodies in the gloom of the canopy, and tastes the air with its tongue. A large head and strong teeth are then used to grab the prey and the snake throws coils of its body around them, squeezing until its catch is dead. It then swallows the meal whole and spends a few days digesting before setting off to hunt again.
+</body>
+<photo name="snakepic" />
+</animalinfo>
+
+<animalinfo animal="morphobutterfly" layers="understorey,canopy">
+<title>Morpho butterfly</title>
+<body>These large butterflies appear to be fairly dull until they suddenly open their wings and flash their intensely blue wings in the sunshine. The colour of their wings is not due to pigments, but happens because of the way the scales on their wings are made – and so the colour is always just as dramatic and easily seen. Morphos are different from other butterflies too in that they don’t visit flowers and drink nectar. These butterflies prefer a nice decaying corpse or fermenting fruit for their dinner, although they often find it hard to get airborne again after dining out on the natural alcohols! The caterpillars eat toxic plants and secrete a smelly oily fluid as a defence, as well as having prickly hairs along their body to deter predators.
+</body>
+<photo name="morphbutterflypic" />
+</animalinfo>
+
+
+<animalinfo animal="orchids" layers="canopy">
+<title>Orchids</title>
+<body>Orchids are some of the most complex and highly evolved plants in the forest, with brightly coloured, highly scented flowers and a range of adaptations to their epiphytic lifestyle. Although they live in a rainforest, the canopy can often be almost as dry as a desert as water trickles down from the branches to the forest floor. Orchids have specialised roots that are heavily waxed to prevent water loss and protect them from exposure to light. Their leaves are waxed for the same reason, and each has a ‘pseudobulb’ at the base to contain a store of water. Their seeds are some of the smallest in the world – like dust – and are designed to be dispersed by whatever faint breeze there is in the canopy. However they don’t leave pollination to chance and each species is highly co-evolved with one or two species of insect, bird or even bat to entice them to their flowers and pollinate them.
+</body>
+<photo name="orchidpic" />
+</animalinfo>
+
+
+<animalinfo animal="macaw" layers="canopy,emergent">
+<title>Macaw</title>
+<body>If you see a flash of intense colour or hear a loud screaming noise in the top of the canopy, it is probable that you have just encountered a flock of macaws. These large parrots live in extended family groups and communicate constantly with ear-splitting whistles, shrieks and screams, which helps to keep the group together when the bright colours cannot be seen. Their strong beaks allow them to open even the toughest of nuts and seeds, and they can even excavate holes in trees to make nests for their young. They are important for distributing seeds as they are voracious and messy eaters, scattering seeds and fruit flesh wherever they are. To counter the effects of some of the toxic fruits they may eat, they frequently visit river banks and cliffs to eat a specific clay that helps them settle their stomachs. They are agile and intelligent and enjoy playing in the treetops.
+</body>
+<photo name="macawpic" />
+</animalinfo>
+
+<animalinfo animal="harpyeagle" layers="emergent">
+<title>Harpy eagle</title>
+<body>The harpy eagle is one of the largest birds of prey in the world, and increasingly rare. It can lift a full-grown howler monkey in its talons, and there is very little that it cannot catch and eat. It nests in the emergent trees where there is plenty of room, and uses them as lookout posts, scanning the forest below it to find troupes of monkeys or flocks of macaws to catch. It has quite short and stubby wings, which are adapted to help it fly through the dense branches of the canopy, and a crest of feathers at the back of its head which it uses to signal to other eagles. Despite its size, very little is known about this eagle as it is very good at hiding.
+</body>
+<photo name="harpyeaglepic" />
+</animalinfo>
+
+<animalinfo animal="howlermonkey" layers="canopy,emergent">
+<title>Howler monkey</title>
+<body>Every morning at dawn, the forest is woken by the sound of screaming and howling. In order to warn other howler monkeys off their territory, a troupe of howlers makes its way to the emergent layer and produces the loudest sounds to come from any mammal throat. The males have a specially adapted voice box and throat pouch to allow them to make such a loud sound, while the females support their noise with hooting. The troupe then sets off to spend the day wandering through the canopy eating leaves. Their prehensile tail allows them to reach any leaf they want, and their huge pot bellies contain a large fermentation chamber to help them digest the tough leaves. Apart from the occasional fight breaking out in the troupe – and the early mornings – these large monkeys are quiet and as lazy as lions for the rest of the day.
+</body>
+<photo name="howlerpic" />
+</animalinfo>
+
+
+</document>
+

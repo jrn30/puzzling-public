@@ -1,0 +1,6 @@
+# Redirects from pages which no longer exist, to the alternatives we should send them to
+
+Redirect permanent /ageselect.php http://puzzling.caret.cam.ac.uk/index.php
+Redirect permanent /intro.html http://puzzling.caret.cam.ac.uk/index.php
+Redirect permanent /privacy.php http://puzzling.caret.cam.ac.uk/index.php?section=priv
+Redirect permanent /zoology http://revolution.caret.cam.ac.uk

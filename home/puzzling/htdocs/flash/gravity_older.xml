@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "lesson.dtd">
+<lesson>
+<page graphic="example0">The aim of this game is to launch your spaceship off a comet and dock it with the space station. However, in your way are a number of planets, whose gravity will change the path of your spaceship.</page>
+
+<page graphic="example1">Drag the vector arrow to choose your speed and direction immediately after launch, then click 'Launch'. You have no more control over the path your spaceship takes but you can make use of the gravitational fields around the planets. Your choice of initial speed and direction is very important.</page>
+
+<page graphic="example0">If you succeed, you'll progress to the next level. The higher the level, the more planets to navigate and the harder the challenge! There are 20 levels in all.</page>
+
+<page graphic="example2">If your ship hits a planet, you'll have to try again. If your ship goes off the screen, you can wait for it to come back. If you don't think it's coming back, you can start again.</page>
+
+<page graphic="example3">To make things harder, enemy forces on the planets will try to shoot down your ship with lasers. The closer you are to a planet the more likely you will be hit - be careful!
+Select a difficulty level - the more difficult the level, the more accurate the lasers are - then click 'Start Game' to start.</page>
+
+<!--
+<page graphic=""></page>
+-->
+
+</lesson>

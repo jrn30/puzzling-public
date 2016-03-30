@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "lesson.dtd">
+<lesson>
+<page graphic="example1">A trebuchet was a medieval catapult, used in warfare. It consisted of a long lever and a heavy weight and was used to hurl large stones or iron balls. In this game you have to set up and use the trebuchet against invading enemies!</page>
+<page graphic="example1" frame="2">A trebuchet works by lifting the weight up and then dropping it down again. The potential energy of the weight is converted into potential energy of the ball and kinetic energy of the ball, weight and lever.</page>
+<page graphic="example1" frame="37">At a certain angle the lever is stopped. The ball, however, continues to move through the air. </page>
+<page graphic="example3">The ball is now in free flight as a projectile and will, in time, fall to the ground.</page>
+<page graphic="example4">The distance travelled by the ball, R, depends on how fast it leaves the trebuchet, at what angle it is launched and its initial height above the ground.</page>
+<page graphic="example6">The initial speed of the ball depends on the change in potential energy of the weight and ball and the gain in kinetic energy of the weight, ball and lever. The heavier the weight is, the faster the ball will go.
+M is mass of weight; m is mass of ball; h is vertical distance moved by ball and weight; v is speed of ball and weight when lever is stopped.       
+</page>
+<page graphic="example5">The distance travelled by the ball can be found from these equations.  Remember, the horizontal speed is constant, while the vertical speed changes due to gravity.</page>
+<page graphic="example5">The equation on the left shows the distance travelled by the ball. What would be the best angle to use to get the ball to travel furthest? The second equation is simpler but assumes that the ball is launched from ground level.</page>
+<page graphic="example7">In this game, you have to set up a trebuchet and then use against the enemy. You will need to set the angle at which you want the trebuchet to fire.</page>
+<page graphic="example8">You will then fire the trebuchet at different targets. Drag the appropriate weight onto the trebuchet hook and let go.</page>
+<page graphic="example9">Hit all the targets, and you move up a level. Targets will get progressively harder - some will move, and some may even fight back.
+You have limited ammunition - if you run out, or if you get hit, you will move down a level.
+Click 'Start Game' to start.</page>
+<!--
+  <page graphic=""></page>
+-->
+</lesson>

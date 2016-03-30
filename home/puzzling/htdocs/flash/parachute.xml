@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "lesson.dtd">
+<lesson>
+<page graphic="example0">Parachutes are used to slow the fall of objects. They do this using the drag force, which counteracts the downward pull of gravity.</page>
+<page graphic="example1">The faster you go, the stronger the drag force. So, at low speeds a parachutist has a small drag force, and will accelerate downwards</page>
+<page graphic="example2">As he accelerates, the drag force will increase, until it equals the pull of gravity. Now he will be going at a constant velocity, called the terminal velocity</page>
+<page graphic="example3">This terminal velocity depends on the many things, including the area of the parachute. The area is inversely proportional to the square of the velocity - so to reduce the velocity by half, we have to increase the area four times.</page>
+<page graphic="example4">Parachutes are not just about size. They also need a hole in the top to allow some air to pass through smoothly - otherwise it builds up and makes the parachute unstable.</page>
+<page graphic="example5">In this game, you have to design a parachute that will safely land a man into the target zone.</page>
+<page graphic="example6">If the terminal velocity is too fast, the parachutist will hit the ground too hard!</page>
+<page graphic="example7">If the terminal velocity is too slow, the parachutist will be blown away into the trees</page>
+<page graphic="example8">Remember the hole at the top! If the parachute's hole is too small, your parachute will rock from side to side and could hurt your parachutist. If it is too large, then the parachute won't work!</page>
+<page graphic="example9">Use the sliders to control the size of the parachute, before launching your plane. You can have as many goes as you like!</page>
+</lesson>

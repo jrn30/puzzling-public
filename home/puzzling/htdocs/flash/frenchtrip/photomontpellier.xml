@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<france>
+	<city name="Montpellier">
+		<monument name="car" pic="carpolice">
+			<description>Une voiture de police au milieu de la route.</description>
+		</monument>
+		<monument name="factory" pic="oldfactory">
+			<description>Une très vieille cheminée d'usine.</description>
+		</monument>
+		<monument name="bridge" pic="bridge">
+			<description>Un pont au dessus d'une rivière calme.</description>
+		</monument>
+		<monument name="road" pic="snowroad">
+			<description>Une route sous la neige entourée d'arbres.</description>
+		</monument>
+	</city>
+</france>

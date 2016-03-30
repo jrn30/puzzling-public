@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE lesson SYSTEM "lesson.dtd">
+<lesson>
+
+<page graphic="example0">When ropes are stretched by a weight, they obey a law called Hooke's Law. This says that the stress applied to a rope divided by the strain is constant. This constant number is called Young's Modulus, and is given the symbol 'E'. Every single material, such as steel, rubber or plastic, has a different Young's Modulus</page>
+
+<page graphic="example1">What are stress and strain? Well, the stress is the stretching force divided by the cross-sectional area of the rope. In this case the force is weight, which is mg.</page>
+
+<page graphic="example2">
+The strain is the change in length (the extension) divided by the original length.
+</page>
+
+<page graphic="example3">If we put the equations for stress and strain into the equation for Young's Modulus, and then rearrange it, we can work out the equation for the extension.</page>
+
+</lesson>

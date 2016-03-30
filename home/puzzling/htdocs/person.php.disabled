@@ -1,0 +1,40 @@
+<?php
+
+$id = $_GET[id];
+include("includes/dblib.php");
+connectToDB("puzzling");
+$query = "SELECT * FROM btp_people WHERE id = '$id'";
+$person = DBonerow($query);
+
+$pagetitle = "The Team: ".$person->name;
+include("includes/top_no_banner.inc");
+
+if ($person) {
+
+?>
+
+<h2><?=$person->name; ?></h2>
+
+<div>
+
+<img src="photos/<?=$person->photo ?>" alt="<?=$person->name ?>" id="personphoto" />
+
+<p>
+<em><strong><?=$person->role ?></strong></em>
+</p>
+
+<?php
+
+	echo $person->description;
+}
+
+else {
+	echo("The URL you have supplied is invalid. Please go back to the referring page and try again.");
+}
+
+?>
+
+</div>
+
+</body>
+</html>
